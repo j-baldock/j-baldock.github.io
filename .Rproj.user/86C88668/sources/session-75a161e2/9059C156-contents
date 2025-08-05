@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: docs
+  
+execute: 
+  warning: FALSE
+  message: FALSE
+  cache: true
+  freeze: auto
+
+comments:
+  hypothesis: 
+    theme: clean
+
+website:
+  title: "Jeff Baldock"
+  navbar:
+    background: primary
+    search: true
+    left: 
+      - index.qmd
+      - aboutcv.qmd
+      - research.qmd
+    tools:
+      - icon: github
+        href: https://github.com/j-baldock
+      - icon: {{< iconify copilot-24 >}}
+        href: https://scholar-google-com.usgslibrary.idm.oclc.org/citations?user=CRU3WVMAAAAJ&hl=en&oi=ao
+
+format:
+  html:
+    theme: darkly
+    code-fold: true
+    code-tools: true
+    code-overflow: wrap
+    number-depth: 4
+      
+  pdf:
+    documentclass: scrreprt
+
+editor: source

@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+  
+execute: 
+  warning: FALSE
+  message: FALSE
+  cache: true
+  freeze: auto
+
+comments:
+  hypothesis: 
+    theme: clean
+
+website:
+  title: "Jeff Baldock"
+  navbar:
+    left: 
+      - index.qmd
+      - aboutcv.qmd
+      - research.qmd
+    tools:
+      - icon: github
+        href: https://github.com/j-baldock
+        target: _blank
+
+
+format:
+  html:
+    theme: darkly
+    code-fold: true
+    code-tools: true
+    code-overflow: wrap
+    number-depth: 4
+      
+  pdf:
+    documentclass: scrreprt
+
+editor: source

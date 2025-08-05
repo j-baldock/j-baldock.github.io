@@ -1,36 +1,18 @@
 ---
 title: "Home"
-main-photo: /files/profiles/profilepicjeff.jpeg
-main-photo-square: /files/profiles/profilepicjeff.jpeg
-format: html
+format:
+  html:
+    embed-resources: true
 ---
 
-::: {.grid}
-
-::: {.g-col-12 .g-col-sm-4}
-
-```{=html}
-<div class="grid" style="--bs-columns: 5; row-gap: 0;">
-  <div class="g-col-1 g-col-sm-0"></div>
-  <div class="g-col-3 g-col-sm-5">
-    <picture>
-      <source media="(max-width: 576px)" srcset="{{< meta main-photo-square >}}">
-      <source media="(min-width: 576px)" srcset="{{< meta main-photo >}}">
-      <img class="img-fluid" src="{{< meta main-photo >}}" alt="{{< meta author-meta >}}">
-    </picture>
-  </div>
-  <div class="g-col-1 g-col-sm-0"></div>
-</div>
-```
-
+::::: grid
+::: g-col-5
+![](files/profiles/jbaldock_fish.jpg)
 :::
 
-::: {.g-col-12 .g-col-sm-8}
-
+::: g-col-7
 I'm an ORISE postdoctoral research fellow at the U.S. Geological Survey's [Northern Rocky Mountain Science Center](https://www.usgs.gov/centers/norock) and [Eastern Ecological Science Center](https://www.usgs.gov/centers/eesc), advised primarily by Drs. [Jenn Fair](https://www.usgs.gov/staff-profiles/jenn-fair) and [Ben Letcher](https://www.usgs.gov/staff-profiles/benjamin-h-letcher). I received a Ph.D. in [Ecology and Evolution](https://www.uwyo.edu/uwgrad/interdisciplinary-programs/pie/index.html) from the University of Wyoming in 2024, advised by Dr. Annika Walters in the [USGS Wyoming Cooperative Fish and Wildlife Research Unit](https://wyocoopunit.org/). I also hold a B.Sc. in Aquatic and Fishery Sciences from the [School of Aquatic and Fishery Sciences](https://fish.uw.edu/) at the University of Washington.
 
-I'm an aquatic ecologist with broad interests in population, evolutionary, and landscape ecology, ecohydrology, and conservation biology. I use field, quantitative, and genetic tools to study the linkages between habitat heterogeneity, life history, and metapopulation dynamics of freshwater fishes. Ultimately, I aim to conduct research that informs management strategies for species and landscapes of conservation concern. 
-
+I'm an aquatic ecologist with broad interests in population, evolutionary, and landscape ecology, ecohydrology, and conservation biology. I use field, quantitative, and genetic tools to study the linkages between habitat heterogeneity, life history, and metapopulation dynamics of freshwater fishes. Ultimately, I aim to conduct research that informs management strategies for species and landscapes of conservation concern.
 :::
-
-:::
+:::::

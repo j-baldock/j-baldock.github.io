@@ -8,7 +8,6 @@ execute:
   warning: FALSE
   message: FALSE
   cache: true
-  freeze: auto
 
 comments:
   hypothesis: 
@@ -27,10 +26,20 @@ website:
         href: cv/cv.qmd
       - text: "Research"
         href: research/research.qmd
-    tools:
+    right:
       - icon: github
         href: https://github.com/j-baldock
         target: _blank
+      - text: "{{< ai google-scholar size=Large >}}"
+        href: https://scholar-google-com.usgslibrary.idm.oclc.org/citations?user=CRU3WVMAAAAJ&hl=en
+        target: _blank
+      - text: "{{< ai researchgate size=Large >}}"
+        href: https://www.researchgate.net/profile/Jeff-Baldock
+        target: _blank
+      - text: "{{< ai orcid size=large >}}"
+        href: https://orcid.org/0000-0002-2791-7535
+        target: _blank
+
 
 
 format:

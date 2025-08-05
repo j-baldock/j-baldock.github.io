@@ -1,23 +1,23 @@
 [
   {
-    "objectID": "research.html",
-    "href": "research.html",
+    "objectID": "research/research.html",
+    "href": "research/research.html",
     "title": "Research",
     "section": "",
     "text": "here is a list of research themes"
   },
   {
-    "objectID": "aboutcv.html",
-    "href": "aboutcv.html",
-    "title": "About & CV",
+    "objectID": "cv/cv.html",
+    "href": "cv/cv.html",
+    "title": "Curriculum vitae",
     "section": "",
-    "text": "I’m an ecologist. Here is my CV"
+    "text": "Download current CV"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Welcome to my research website"
+    "text": "I’m an ORISE postdoctoral research fellow at the U.S. Geological Survey’s Northern Rocky Mountain Science Center and Eastern Ecological Science Center, advised primarily by Drs. Jenn Fair and Ben Letcher. I received a Ph.D. in Ecology and Evolution from the University of Wyoming in 2024, advised by Dr. Annika Walters in the USGS Wyoming Cooperative Fish and Wildlife Research Unit. I also hold a B.Sc. in Aquatic and Fishery Sciences from the School of Aquatic and Fishery Sciences at the University of Washington.\nI’m an aquatic ecologist with broad interests in population, evolutionary, and landscape ecology, ecohydrology, and conservation biology. I use field, quantitative, and genetic tools to study the linkages between habitat heterogeneity, life history, and metapopulation dynamics of freshwater fishes. Ultimately, I aim to conduct research that informs management strategies for species and landscapes of conservation concern."
   }
 ]

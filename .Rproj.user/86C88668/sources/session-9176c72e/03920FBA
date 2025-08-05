@@ -3,7 +3,7 @@
     "path": "~/Professional/j-baldock.github.io/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "3366395445",
+    "hash": "481176505",
     "contents": "",
     "dirty": false,
     "created": 1754368621804.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "24,22",
+        "cursorPosition": "4,15",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1754369579,
+    "lastKnownWriteTime": 1754412866,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1754369579311,
+    "last_content_update": 1754412866401,
     "read_only": false,
     "read_only_alternatives": []
 }

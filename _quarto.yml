@@ -26,6 +26,8 @@ website:
         href: cv/cv.qmd
       - text: "Research"
         href: research/research.qmd
+      - text: "Publications"
+        href: publications/publications.qmd
     right:
       - icon: github
         href: https://github.com/j-baldock

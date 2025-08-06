@@ -1,0 +1,20 @@
+---
+title: "Publications"
+---
+
+My research spans population, evolutionary, and landscape ecology, ecohydrology, and conservation biology. Here's a list of peer-reviewed publications describing this work. You can also follow my work on [Google Scholar](https://scholar-google-com.usgslibrary.idm.oclc.org/citations?user=CRU3WVMAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Jeff-Baldock). If you encounter a paywall, please email me and I will be happy to send you a copy of the paper.
+
+
+## 2023
+
+-   **Baldock JR**, Al-Chokhachy R, Campbell MR, & Walters A. 2023. Timing of reproduction underlies fitness trade-offs for a salmonid fish. Oikos e10184. DOI: [10.1111/oik.10184](https://nsojournals-onlinelibrary-wiley-com.usgslibrary.idm.oclc.org/doi/full/10.1111/oik.10184) \| [data](https://zenodo.org/records/7839081)
+
+-   **Baldock JR**, Al-Chokhachy R, Walsworth TE, & Walters. 2023. Redd superimposition mediates the accuracy, precision, and significance of redd counts for cutthroat trout. Canadian Journal of Aquatic and Fishery Sciences 80(5):825-839. DOI: [10.1139/cjfas-2022-0267](https://cdnsciencepub-com.usgslibrary.idm.oclc.org/doi/full/10.1139/cjfas-2022-0267) \| [data](https://github.com/j-baldock/Baldock-et-al_ReddCountsSuperimposition_2022)
+
+## 2020
+
+-   Walsworth TE, **Baldock JR**, Schindler DE & Zimmerman CE. 2020. Interaction between watershed features and climate forcing affects habitat profitability for juvenile salmonids. Ecosphere 11(10): e03266. DOI: [10.1002/ecs2.3266](https://esajournals-onlinelibrary-wiley-com.usgslibrary.idm.oclc.org/doi/full/10.1002/ecs2.3266)
+
+## 2016
+
+-   **Baldock JR**, Armstrong JB, Schindler DE, & Carter JL. 2016. Juvenile coho salmon track a seasonally shifting thermal mosaic across a river floodplain. Freshwater Biology 61(9):1454-1465. DOI: [10.1111/fwb.12784](https://onlinelibrary-wiley-com.usgslibrary.idm.oclc.org/doi/full/10.1111/fwb.12784)

@@ -20,8 +20,10 @@ website:
   title: "Jeff Baldock"
   navbar:
     left: 
-      - text: "About"
+      - text: "Home"
         href: index.qmd
+      - text: "About"
+        href: about/about.qmd
       - text: "CV"
         href: cv/cv.qmd
       - text: "Research"
@@ -46,10 +48,7 @@ website:
 
 format:
   html:
-    theme: darkly
-    code-fold: true
-    code-tools: true
-    code-overflow: wrap
+    theme: flatly
     number-depth: 4
       
 

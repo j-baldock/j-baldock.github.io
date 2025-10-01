@@ -1,0 +1,36 @@
+---
+title: "About"
+format:
+  html:
+    embed-resources: true
+---
+
+::::: grid
+::: g-col-5
+![](files/profiles/profilepicjeff.jpeg)
+:::
+
+::: g-col-7
+**Background**
+
+I grew up in Nevada City, California, nestled in the foothills of the Sierra Nevada mountains. I was fortunate to have parents that instilled in me a love and appreciation for the outdoors (and fish!) at an early age. The summers of my childhood were filled with camping trips and lazy days along the South Fork Yuba River, a local gem (and conveniently considered one of the best candidates for the reintroduction of Chinook salmon should fish passage over a series of dams ever be restored). As far as fish science, that mostly came later. As a kid, I spent most of my river time watching rainbow trout through a mask and snorkel. My mom, brother and I also spent countless days at the local lakes with spin rods and a can of worms, but we never seemed to catch anything. 
+
+**Research Journey**
+
+Despite my love for the Sierras, I was hell-bent on seeing something new. In 2010, I moved to Seattle to start my undergraduate degree at the University of Washington. After a year of survey courses, I found myself in an introductory fisheries class, where I discovered that you could actually get paid to watch fish. I soon got a tech job with Dr. [Daniel Schindler](https://fish.uw.edu/faculty/daniel-schindler/), prepping otoliths for microchemical analysis. Many long hours at the lab bench soon led to a summer field job with the [Alaska Salmon Program](https://alaskasalmonprogram.org/), where I assisted with a variety of graduate student projects and long-term monitoring of salmon ecosystems in southwest Alaska. During this first summer with ASP, I also conducted my capstone research, which explored how juvenile coho salmon track shifting mosaics of temperature and food across river floodplains. This work was done under the supervision of Daniel and Dr. [Jonny Armstrong](https://jbarmstrong.wordpress.com). During my undergraduate I was also fortunate enough to participate in two field ecology programs, one at UW's Friday Harbor Laboratories in Friday Harbor, Washington, and the other in Bocas del Toro, Panama.
+
+In 2014, I received a B.Sc. in Aquatic and Fishery Sciences from the [School of Aquatic and Fishery Sciences](https://fish.uw.edu/) at the University of Washington. I continued to work for the Alaska Salmon Program for an additional four years, but now as a Field Biologist at ASP's Chignik Lakes field camp. In this role, I led all sampling related to our long-term monitoring datasets, coordinated research activities with partner agencies, and helped communicate our findings and maintain relationships with the commercial and subsistence fishing communities. During the winter of 2016, I did a short stint as a field technician in central Ecuador, where I worked on a large collaborative project investigating how local adaptation shapes climate vulnerability in stream macroinvertebrate communities. These field experiences (Alaska, Ecuador, Panama, and Friday Harbor) provided not only a strong background in field ecology, but also shaped my scientific and conservation ethos in very unique and meaningful ways.
+
+In 2018, I moved to Laramie, Wyoming, to begin graduate school with Dr. Annika Walters in the [USGS Wyoming Cooperative Fish and Wildlife Research Unit](https://wyocoopunit.org/). 
+
+
+
+
+I am currently an ORISE Postdoctoral Research Fellow at the U.S. Geological Survey's [Northern Rocky Mountain Science Center](https://www.usgs.gov/centers/norock) and [Eastern Ecological Science Center](https://www.usgs.gov/centers/eesc), supervised by Drs. [Jenn Fair](https://www.usgs.gov/staff-profiles/jenn-fair) and [Ben Letcher](https://www.usgs.gov/staff-profiles/benjamin-h-letcher). My research at USGS is primarily focused on how spatial heterogeneity in headwater flow regimes changes with climatic conditions, specifically drought. Drs. [Clint Muhlfeld](https://www.usgs.gov/staff-profiles/clint-muhlfeld), [Robert Al-Chokhachy](https://www.usgs.gov/staff-profiles/robert-al-chokhachy), and [Jason Dunham](https://www.usgs.gov/staff-profiles/jason-b-dunham) are key collaborators on this work. 
+
+
+**For Fun**
+
+
+:::
+:::::

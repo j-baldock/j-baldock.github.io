@@ -1,6 +1,91 @@
 ---
-title: "Research"
-format: html
+title: "Riverscape ecology in a changing world"
+title-block-banner: true
+format:
+  html:
+    embed-resources: true
+
+page-layout: full
 ---
 
-here is a list of research themes
+How do landscapes vary across space and time and what are the consequences of this variability for species and ecosystems? Understanding the drivers of landscape diversity and how this affects population dynamics and ecosystem function is foundational to the science of ecology and is critical for predicting and managing the effects of global change. My research occurs at the nexus of landscape and population ecology, ecohydrology, and conservation biology to understand river ecosystems across space and time. Much of my work is focused on migratory salmonid fishes that support economically and culturally valuable fisheries. I work closely with stakeholders to co-produce science that informs conservation and management under accelerating climate and hydrologic change.
+
+
+## Stream temperature, flow, and groundwater
+
+::::: grid
+::: g-col-5
+![](../files/images/LowFlowFig.png)
+:::
+
+::: g-col-7
+Stream temperature and flow determine water quality and regulate individual and population vital rates for riverine organisms. I apply statistical models to remotely sensed landscape data and *in-situ* data collected from distributed monitoring networks to unravel the patterns and drivers of stream temperature and flow across space and time. My work includes developing novel techniques for estimating groundwater availability and exploring the use of these data for improving models of stream flow and temperature.
+:::
+:::::
+
+### Relevant publications
+
+-   **Baldock JR**, Al-Chokhachy R, & Walters A. *In press*. Groundwater structures fish growth and production across a riverscape. *Freshwater Biology*.
+
+-   **Baldock JR**, Fair JBH, Letcher BH, Al-Chokhachy R, Dunham JB, & Muhlfeld CC. Headwater streamflow variability is amplified by drought. In review at *Nature Water*.
+
+-   Gauthier K, **Baldock JR**, & Walters A. Accounting for groundwater in daily spatial stream temperature models highlights climate refugia for native cold-water fish. *Manuscript in preparation*.
+
+
+## Organismal responses to habitat heterogeneity
+
+::::: grid
+::: g-col-5
+![](../files/images/ProductionFig.png)
+:::
+
+::: g-col-7
+Spatiotemporal habitat heterogeneity can impact the ecology of aquatic organisms through a variety of pathways. My interests here generally fall into two categories: movement strategies and population dynamics. In connected habitat networks, my research shows how mobile species and life stages move at diel, seasonal, and interannual time scales to track shifting habitat mosaics at reach to watershed spatial scales. For less mobile life stages or in fragmented habitat networks, I am interested in how habitat heterogeneity drives spatial diversity in population vital rates, such as growth and recruitment.
+:::
+:::::
+
+### Relevant publications
+
+-   Walsworth TE, **Baldock JR**, Schindler DE & Zimmerman CE. 2020. Interaction between watershed features and climate forcing affects habitat profitability for juvenile salmonids. Ecosphere 11(10): e03266. DOI: [10.1002/ecs2.3266](https://doi.org/10.1002/ecs2.3266)
+
+-   **Baldock JR**, Armstrong JB, Schindler DE, & Carter JL. 2016. Juvenile coho salmon track a seasonally shifting thermal mosaic across a river floodplain. Freshwater Biology 61(9):1454-1465. DOI: [10.1111/fwb.12784](https://doi.org/10.1111/fwb.12784)
+
+-   **Baldock JR**, Al-Chokhachy R, & Walters A. *In press*. Groundwater structures fish growth and production across a riverscape. *Freshwater Biology*.
+
+
+## Adaptive water management to support ecosystems
+
+::::: grid
+::: g-col-5
+![](../files/images/ScenarioFig.png)
+:::
+
+::: g-col-7
+Climate change and hydrologic alteration by dams are reshaping river ecosystems globally. Yet the combined effects of changing streamflow and temperature on population dynamics of ecologically and economically important species remain poorly understood. I apply population modelling techniques to long-term fisheries monitoring data to understand the drivers of population abundance across space and time. This work is done in collaboration with water and fisheries managers to help guide the development of adaptive environmental flow programs that are robust to changing climate conditions. 
+:::
+:::::
+
+### Relevant publications
+
+-   **Baldock JR**, Al-Chokhachy R, Walsworth TE, & Walters. 2023. Redd superimposition mediates the accuracy, precision, and significance of redd counts for cutthroat trout. Canadian Journal of Aquatic and Fishery Sciences 80(5):825-839. DOI: [10.1139/cjfas-2022-0267](https://doi.org/10.1139/cjfas-2022-0267)
+
+-   **Baldock JR**, Cline TJ, & Walters A. Climate and dam management influence productivity of a cold-water fish across a river network. *Manuscript in preparation*.
+
+
+## Population and life-history diversity
+
+::::: grid
+::: g-col-5
+![](../files/images/ContributionFig.png)
+:::
+
+::: g-col-7
+Population and life-history diversity confer resilience to environmental stochasticity, but the mechanisms underpinning this diversity are often not assessed. I use a variety of techniques (including genetic tools and behavioral observations) to understand the mechanisms that generate and maintain population and life-history diversity at multiple spatial scales and levels of organization. My interests range from fitness trade-offs associated with spawning behavior to spatial structure of river networks and variation in local habitat conditions. 
+:::
+:::::
+
+### Relevant publications
+
+-   **Baldock JR**, Al-Chokhachy R, Campbell MR, & Walters A. 2023. Timing of reproduction underlies fitness trade-offs for a salmonid fish. Oikos e10184. DOI: [10.1111/oik.10184](https://doi.org/10.1111/oik.10184)
+
+-   **Baldock JR**, Rosenthal WC, Campbell MR, Wagner CE, Al-Chokhachy R, & Walters A. Riverscape heterogeneity shapes population diversity for a migratory fish. In review at *Ecological Applications*.

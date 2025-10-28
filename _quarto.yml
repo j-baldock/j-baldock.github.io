@@ -2,16 +2,16 @@ project:
   type: website
   output-dir: docs
   resources:
-    - "files/**"
-  
-execute: 
-  warning: FALSE
-  message: FALSE
-  cache: true
-
-comments:
-  hypothesis: 
-    theme: clean
+    - files/**
+#   
+# execute: 
+#   warning: FALSE
+#   message: FALSE
+#   cache: true
+# 
+# comments:
+#   hypothesis: 
+#     theme: clean
 
 pagetitle: "{{< meta title >}} | Jeff Baldock"
 author-meta: "Jeff Baldock"
@@ -20,17 +20,27 @@ website:
   title: "Jeff Baldock"
   navbar:
     left: 
-      - text: "Home"
-        href: index.qmd
+      # - text: "Home"
+      #   href: index.qmd
       - text: "About"
         href: about/about.qmd
-      - text: "CV"
-        href: cv/cv.qmd
       - text: "Research"
         href: research/research.qmd
       - text: "Publications"
         href: publications/publications.qmd
+      - text: "Outreach"
+        menu: 
+          - text: "Presentations"
+            href: presentations/presentations.qmd
+          - text: "Teaching and mentoring"
+            href: teaching/teaching.qmd
+          - text: "Events"
+            href: events/events.qmd
+      - text: "Data products"
+        href: dataprod/dataproducts.qmd
     right:
+      - text: "CV"
+        href: cv/cv.qmd
       - icon: github
         href: https://github.com/j-baldock
         target: _blank
@@ -44,6 +54,9 @@ website:
         href: https://orcid.org/0000-0002-2791-7535
         target: _blank
 
+  page-footer:  
+    left: >-
+     &#169; 2025 Jeff Baldock &#8729; Made with [Quarto](https://quarto.org)
 
 
 format:

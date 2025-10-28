@@ -14,7 +14,7 @@ page-layout: full
 :::
 
 ::: g-col-7
-<div class="h1">Jeff Baldock, PhD, Aquatic Ecologist</div>
+<div class="h1">Jeff Baldock, PhD - Aquatic Ecologist</div>
 
 I am an ORISE Postdoctoral Research Fellow at the U.S. Geological Survey [Northern Rocky Mountain Science Center](https://www.usgs.gov/centers/norock) and [Eastern Ecological Science Center](https://www.usgs.gov/centers/eesc), advised by Drs. [Jenn Fair](https://www.usgs.gov/staff-profiles/jenn-fair) and [Ben Letcher](https://www.usgs.gov/staff-profiles/benjamin-h-letcher). I received a PhD in [Ecology and Evolution](https://www.uwyo.edu/uwgrad/interdisciplinary-programs/pie/index.html) from the University of Wyoming in 2024, advised by Dr. [Annika Walters](https://wyocoopunit.org/) in the USGS Wyoming Cooperative Fish and Wildlife Research Unit. I also hold a BSc from the [School of Aquatic and Fishery Sciences](https://fish.uw.edu/) at the University of Washington. Learn more about my background and research journey, below.
 

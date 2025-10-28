@@ -2,11 +2,11 @@
 title: "Jeff Baldock, PhD"
 pagetitle: "Jeff Baldock, PhD"
 subtitle: "ORISE Postdoctoral Reasearch Fellow, U.S. Geological Survey NOROCK"
-image: profilepic.jpg
+image: files/images/profilepic.jpg
 
-# format:
-#   html:
-#     embed-resources: true
+format:
+  html:
+    embed-resources: true
 
 about:
   template: solana

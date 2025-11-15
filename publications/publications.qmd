@@ -5,7 +5,7 @@ page-layout: full
 ---
 
 Here's a list of publications that have resulted from my research. You can follow this work on [Google Scholar](https://scholar.google.com/citations?user=CRU3WVMAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Jeff-Baldock). If you encounter a paywall, please email me and I will be happy to send you a copy of the paper.
-
+<br><br>
 
 ## In Review
 

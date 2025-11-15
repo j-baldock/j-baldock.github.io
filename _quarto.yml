@@ -36,7 +36,7 @@ website:
             href: teaching/teaching.qmd
           - text: "Events"
             href: events/events.qmd
-      - text: "Data products"
+      - text: "Open data science"
         href: dataprod/dataproducts.qmd
     right:
       - text: "CV"

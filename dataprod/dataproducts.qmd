@@ -1,5 +1,5 @@
 ---
-title: "Data products and visualization"
+title: "Open science, data visualization, and decision support tools"
 title-block-banner: true
 format:
   html:
@@ -8,5 +8,81 @@ format:
 page-layout: full
 ---
 
-*Page under construction. Check back soon for updates!*
+I am passionate about **open science** and making my research and data as **transparent and accessible** as possible. 
 
+As much of my work is applied, I am increasingly interested in developing and contributing to **data visualization and decision-support tools** to increase the accessibility of my research and inform decision-making for conservation and management. 
+
+I use [R](https://www.r-project.org/) and [RStudio](https://posit.co/download/rstudio-desktop/) for my statistical computing and [GitHub](https://github.com/j-baldock) for version control. I publish almost all of my projects to websites using [Quarto](https://quarto.org/docs/websites/), which I find incredibly effective for **organizing my workflow and collaborating** with other scientists. See below for a list of these sites. 
+<br><br>
+
+## Data visualization and decision support tools
+
+### Groundwater Availability Data Viewer
+
+::::: grid
+::: g-col-3
+![](../files/images/groundwaterviewer.png)
+:::
+
+::: g-col-8
+In riverine ecosystems, groundwater is a key component of hydrologic budgets and groundwater-fed habitats are expected to serve as climate refuges for cold-water fish as groundwater input buffers against stressful water temperatures and hydrologic variability. Yet accurate, spatially continuous estimates of groundwater availability in river systems unavailable, particularly at spatial scales relevant to fisheries habitat management. In a recent paper, we applied machine learning techniques to remotely sense landscape data and field observations of groundwater springs to generate high-resolution, spatially continuous estimates of groundwater availability across the upper Snake River watershed, Wyoming. [Explore the data visualization tools here](https://j-baldock.github.io/SnakeGroundwaterViewer/). 
+:::
+:::::
+
+
+### STREAM: Simulation Toolkit for River Ecosystem Adaptive Managment
+::::: grid
+::: g-col-3
+![](../files/images/jld_bor.png)
+*Photo credit: Bureau of Reclamation*
+:::
+
+::: g-col-8
+Climate change and hydrologic alteration by dams are reshaping river systems worldwide, threatening freshwater biodiversity, ecosystem function, and the sustainability of critical ecosystem services. Environmental flows – allocating water specifically to sustain ecosystems – offer an opportunity to integrate ecosystem needs into water management. However, flow recommendations may need to be reassessed as climate change shifts the environmental context under which recommendations were originally developed. 
+
+STREAM is a decision support platform that simulates how changing streamflow and temperature influence the productivity of Yellowstone cutthroat trout in the upper Snake River watershed, Wyoming. Built for fisheries and water managers and conservation professionals, STREAM integrates long-term environmental and biological data to support adaptive, climate-resilient management strategies. *STREAM is currently in beta testing*. [Access STREAM here](https://wyseason.s3.arcc.uwyo.edu/stream/index.html). 
+:::
+:::::
+
+
+### WySEaSON Stream Temperature Explorer
+
+::::: grid
+::: g-col-3
+![](../files/images/streamtemplogo.png)
+:::
+
+::: g-col-8
+Temperature is a "master variable" in aquatic ecosystems, influencing everything from water quality to the distribution of aquatic organisms. As part of my Ph.D., I established an extensive stream temperature monitoring network across the upper Snake River watershed, Wyoming, leveraging data collected by the University of Wyoming, U.S. Forest Service, U.S. Geological Survey, and Wyoming Game and Fish Department. This sensor network is maintained by the University of Wyoming. [Click here](https://wyadapt.org/wyseason/apps/stream-temperature-explorer/) to view and download the temperature data and access other tools to understand thermal regimes in this mountain ecosystem.
+:::
+:::::
+
+
+## Project websites
+
+Here is a list of Quarto websites supporting my research. Many of these projects are currently in progress and as such the websites are subject to change. 
+
+- [EcoDrought](https://j-baldock.github.io/EcoDrought-Analysis/): understanding fine-scale spatial heterogeneity in headwater streamflow ([supporting book](https://j-baldock.github.io/FlowVariabilityDrought/)).
+
+- [Temp-Flow-Sensitivity](https://j-baldock.github.io/TempFlowSensitivity/): modeling the effect of streamflow on water temperature in headwater streams. 
+
+- [YCT-ReddCounts-Ricker](https://j-baldock.github.io/YCT-ReddCounts-Ricker/): quantifying the effects of changing climate and water management on trout productivity ([STREAM decision support tool](https://wyseason.s3.arcc.uwyo.edu/stream/index.html)). 
+
+- [SnakeRiver-GSI](https://j-baldock.github.io/Snake-River-GSI-Quarto/): use genetic stock identification to understand the riverscape factors that shape population diversity of cutthroat trout.
+
+- [PASTA-groundwater](https://j-baldock.github.io/PASTA-groundwater/): exploratory work using paired air-stream temperature analysis to improve regional temperature modeling.
+
+- [Super-Ricker](https://j-baldock.github.io/Super-Ricker/): exploratory analysis to quantify the effects of superimposition rates on the strength of density dependence for cutthroat trout. 
+
+- [SnakeRiverAssessment](https://j-baldock.github.io/SnakeRiverAssessment/): evaluate Yellowstone cutthroat trout population trends for the WyACT Snake River Climate Assessment.
+
+
+## Data releases
+
+- **Baldock JR**. 2025. Redd count monitoring data for Yellowstone cutthroat trout spawning in groundwater-fed tributaries to the Snake River, Wyoming [Data set]. Zenodo Digital Repository, DOI: [10.5281/zenodo.17594482](https://doi.org/10.5281/zenodo.17594482).
+
+- Al-Chokhachy R, D'Angelo V, **Baldock JR**, Sauer HE, and Muhlfeld CC. 2025 Streamflow and stream temperature data from the Northern Rocky Mountains (2012 - 2023). U.S. Geological Survey data release, DOI: [10.5066/P1HQEFG4](https://doi.org/10.5066/P1HQEFG4).
+
+- Al-Chokhachy R, **Baldock JR**, and Walters AW. 2024. Fish sampling data, water temperature data, and groundwater spring location data from the upper Snake River basin, WY, 2021-2023. U.S. Geological Survey data release, DOI: [10.5066/P1YJCBPU](https://doi.org/10.5066/P1YJCBPU).
+
+- **Baldock JR**, Al-Chokhachy R, Campbell MR, and Walters A. 2023. Data from: Timing of reproduction underlies fitness tradeoffs for a salmonid fish. Zenodo Digital Repository, DOI: [10.5281/zenodo.7839081](https://doi.org/10.5281/zenodo.7839081).

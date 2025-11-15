@@ -9,3 +9,6 @@ library(knitr)
 #  - TemporalResolution
 #  - PASTA
 quarto::quarto_render(output_format = "html")
+
+
+quarto::quarto_render("dataprod/dataproducts.qmd", output_format = "html")

@@ -9,7 +9,7 @@ page-layout: full
 ---
 
 How do landscapes vary across space and time and what are the consequences of this variability for species and ecosystems? Understanding the drivers of landscape diversity and how this affects population dynamics and ecosystem function is foundational to the science of ecology and is critical for predicting and managing the effects of global change. My research occurs at the nexus of landscape and population ecology, ecohydrology, and conservation biology to understand river ecosystems across space and time. Much of my work is focused on migratory salmonid fishes that support economically and culturally valuable fisheries. I work closely with stakeholders to co-produce science that informs conservation and management under accelerating climate and hydrologic change.
-
+<br><br>
 
 ## Stream temperature, flow, and groundwater
 

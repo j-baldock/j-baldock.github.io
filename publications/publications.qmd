@@ -7,15 +7,17 @@ page-layout: full
 Here's a list of publications that have resulted from my research. You can follow this work on [Google Scholar](https://scholar.google.com/citations?user=CRU3WVMAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Jeff-Baldock). If you encounter a paywall, please email me and I will be happy to send you a copy of the paper.
 <br><br>
 
-## In Review
+## In Review or Revision
 
 - **Baldock JR**, Fair JBH, Letcher BH, Al-Chokhachy R, Dunham JB, & Muhlfeld CC. Headwater streamflow variability is amplified by drought. *In review* at *Nature Water*.
 
-- **Baldock JR**, Rosenthal WC, Campbell MR, Wagner CE, Al-Chokhachy R, & Walters A. Riverscape heterogeneity shapes population diversity for a migratory fish. *In review* at *Ecological Applications*.
+- **Baldock JR**, Rosenthal WC, Campbell MR, Wagner CE, Al-Chokhachy R, & Walters A. Riverscape heterogeneity shapes population diversity for a migratory fish. *In revision* at *Ecological Applications*.
 
-## Accepted
+- **Baldock JR**, Cline TJ, Caskey S, Fetzet WW, Shuman B, Walters A. Changing climate and dam management drive cold-water fish productivity across a river network. *In review* at *Global Change Biology*.
 
-- **Baldock JR**, Al-Chokhachy R, & Walters A. *In press*. Groundwater structures fish growth and production across a riverscape. *Freshwater Biology*. (publication delayed due to 2025 government shutdown)
+## 2025
+
+- **Baldock JR**, Al-Chokhachy R, & Walters A. 2025. Groundwater structures fish growth and production across a riverscape. *Freshwater Biology* 70:e70112. DOI: [10.1111/fwb.70112](https://doi.org/10.1111/fwb.70112) 
 
 ## 2024
 

@@ -25,7 +25,7 @@ Stream temperature and flow determine water quality and regulate individual and 
 
 ### Relevant publications
 
--   **Baldock JR**, Al-Chokhachy R, & Walters A. *In press*. Groundwater structures fish growth and production across a riverscape. *Freshwater Biology*.
+-   **Baldock JR**, Al-Chokhachy R, & Walters A. 2025. Groundwater structures fish growth and production across a riverscape. *Freshwater Biology* 70:e70112. DOI: [10.1111/fwb.70112](https://doi.org/10.1111/fwb.70112) 
 
 -   **Baldock JR**, Fair JBH, Letcher BH, Al-Chokhachy R, Dunham JB, & Muhlfeld CC. Headwater streamflow variability is amplified by drought. In review at *Nature Water*.
 
@@ -50,7 +50,7 @@ Spatiotemporal habitat heterogeneity can impact the ecology of aquatic organisms
 
 -   **Baldock JR**, Armstrong JB, Schindler DE, & Carter JL. 2016. Juvenile coho salmon track a seasonally shifting thermal mosaic across a river floodplain. Freshwater Biology 61(9):1454-1465. DOI: [10.1111/fwb.12784](https://doi.org/10.1111/fwb.12784)
 
--   **Baldock JR**, Al-Chokhachy R, & Walters A. *In press*. Groundwater structures fish growth and production across a riverscape. *Freshwater Biology*.
+-   **Baldock JR**, Al-Chokhachy R, & Walters A. 2025. Groundwater structures fish growth and production across a riverscape. *Freshwater Biology* 70:e70112. DOI: [10.1111/fwb.70112](https://doi.org/10.1111/fwb.70112) 
 
 
 ## Adaptive water management to support ecosystems
@@ -69,7 +69,7 @@ Climate change and hydrologic alteration by dams are reshaping river ecosystems 
 
 -   **Baldock JR**, Al-Chokhachy R, Walsworth TE, & Walters. 2023. Redd superimposition mediates the accuracy, precision, and significance of redd counts for cutthroat trout. Canadian Journal of Aquatic and Fishery Sciences 80(5):825-839. DOI: [10.1139/cjfas-2022-0267](https://doi.org/10.1139/cjfas-2022-0267)
 
--   **Baldock JR**, Cline TJ, & Walters A. Climate and dam management influence productivity of a cold-water fish across a river network. *Manuscript in preparation*.
+-   **Baldock JR**, Cline TJ, & Walters A. Climate and dam management influence productivity of a cold-water fish across a river network. In review at *Global Change Biology*.
 
 
 ## Population and life-history diversity
@@ -88,4 +88,4 @@ Population and life-history diversity confer resilience to environmental stochas
 
 -   **Baldock JR**, Al-Chokhachy R, Campbell MR, & Walters A. 2023. Timing of reproduction underlies fitness trade-offs for a salmonid fish. Oikos e10184. DOI: [10.1111/oik.10184](https://doi.org/10.1111/oik.10184)
 
--   **Baldock JR**, Rosenthal WC, Campbell MR, Wagner CE, Al-Chokhachy R, & Walters A. Riverscape heterogeneity shapes population diversity for a migratory fish. In review at *Ecological Applications*.
+-   **Baldock JR**, Rosenthal WC, Campbell MR, Wagner CE, Al-Chokhachy R, & Walters A. Riverscape heterogeneity shapes population diversity for a migratory fish. In revision at *Ecological Applications*.

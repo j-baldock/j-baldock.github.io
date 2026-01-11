@@ -3,19 +3,19 @@ title: "Curriculum vitae"
 title-block-banner: true
 format: html
 published-title: CV last updated
-date: 2025-11-24
+date: 2026-01-07
 cv:
-  pdf: "Baldock_CV_November2025.pdf"
+  pdf: "Baldock_CV_January2026.pdf"
 ---
 
 ```{=html}
 <p class="text-center">
-  <a class="btn btn-primary btn-lg cv-download" href="Baldock_CV_November2025.pdf" target="_blank">
+  <a class="btn btn-primary btn-lg cv-download" href="Baldock_CV_January2026.pdf" target="_blank">
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download current CV
   </a>
 </p>
 
 <div class="embed-container">
-  <iframe width="780" height="1000" src="Baldock_CV_November2025.pdf#zoom=fit" style="border: 0.5px"></iframe>
+  <iframe width="1000" height="1000" src="Baldock_CV_January2026.pdf#zoom=fit" style="border: 0.5px"></iframe>
 </div>
 ```

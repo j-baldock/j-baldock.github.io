@@ -1,7 +1,7 @@
 ---
 title: "Jeff Baldock, PhD"
 pagetitle: "Jeff Baldock, PhD"
-subtitle: "ORISE Postdoctoral Reasearch Fellow, U.S. Geological Survey NOROCK"
+subtitle: "Postdoctoral Scholar, Oregon State University"
 image: files/images/profilepic.jpg
 
 format:
@@ -15,7 +15,7 @@ about:
   links:
     - icon: envelope
       text: E-mail
-      href: mailto:jbaldock@usgs.gov  
+      href: mailto:baldockj@oregonstate.edu  
     - text: "{{< ai orcid >}} ORCID" 
       href: https://orcid.org/0000-0002-2791-7535
       target: _blank

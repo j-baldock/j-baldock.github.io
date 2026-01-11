@@ -2,3 +2,4 @@
 /.quarto/
 .Rproj.user
 files/
+**/*.quarto_ipynb

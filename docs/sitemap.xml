@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://j-baldock.github.io/teaching/teaching.html</loc>
-    <lastmod>2025-10-28T17:52:28.930Z</lastmod>
-  </url>
-  <url>
-    <loc>https://j-baldock.github.io/publications/publications.html</loc>
-    <lastmod>2025-11-24T16:47:33.263Z</lastmod>
-  </url>
-  <url>
-    <loc>https://j-baldock.github.io/index.html</loc>
-    <lastmod>2025-10-28T18:41:00.078Z</lastmod>
-  </url>
-  <url>
     <loc>https://j-baldock.github.io/dataprod/dataproducts.html</loc>
-    <lastmod>2025-11-15T00:21:58.761Z</lastmod>
-  </url>
-  <url>
-    <loc>https://j-baldock.github.io/about/about.html</loc>
-    <lastmod>2025-11-15T00:23:49.130Z</lastmod>
+    <lastmod>2026-01-11T16:06:54.017Z</lastmod>
   </url>
   <url>
     <loc>https://j-baldock.github.io/cv/cv.html</loc>
-    <lastmod>2025-11-24T16:30:22.255Z</lastmod>
-  </url>
-  <url>
-    <loc>https://j-baldock.github.io/events/events.html</loc>
-    <lastmod>2025-10-28T17:53:10.513Z</lastmod>
+    <lastmod>2026-01-11T16:08:38.257Z</lastmod>
   </url>
   <url>
     <loc>https://j-baldock.github.io/presentations/presentations.html</loc>
-    <lastmod>2025-10-28T17:51:04.651Z</lastmod>
+    <lastmod>2025-10-28T17:51:06.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://j-baldock.github.io/about/about.html</loc>
+    <lastmod>2026-01-11T16:54:08.678Z</lastmod>
   </url>
   <url>
     <loc>https://j-baldock.github.io/research/research.html</loc>
-    <lastmod>2025-11-24T16:47:54.223Z</lastmod>
+    <lastmod>2026-01-11T17:12:39.978Z</lastmod>
+  </url>
+  <url>
+    <loc>https://j-baldock.github.io/publications/publications.html</loc>
+    <lastmod>2026-01-11T16:04:41.802Z</lastmod>
+  </url>
+  <url>
+    <loc>https://j-baldock.github.io/index.html</loc>
+    <lastmod>2026-01-07T17:55:44.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://j-baldock.github.io/teaching/teaching.html</loc>
+    <lastmod>2026-01-11T18:29:47.677Z</lastmod>
+  </url>
+  <url>
+    <loc>https://j-baldock.github.io/events/events.html</loc>
+    <lastmod>2025-10-28T17:53:12.000Z</lastmod>
   </url>
 </urlset>

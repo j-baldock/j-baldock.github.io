@@ -1,12 +1,108 @@
 ---
-title: "Teaching and mentoring"
+title: "Teaching & mentoring"
 title-block-banner: true
-format:
-  html:
-    embed-resources: true
-
+# format:
+#   html:
+#     embed-resources: true
 page-layout: full
+lightbox: true
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
-*Page under construction. Check back soon for updates!*
+I am passionate about ecology and conservation, and I aim to share this
+enthusiasm through **question-driven, student-guided teaching** and
+**flexible, transparent mentorship**. My philosophy centers on meeting
+students where they are, fostering curiosity through experiential
+learning, and helping them build skills to think critically, ask
+meaningful questions, and synthesize knowledge. I adapt my guidance to
+the diverse backgrounds, needs, and career goals of my students and
+mentees, creating inclusive, supportive environments that encourage
+independence, discovery, and a sense of camaraderie in both the
+classroom and the field. <br><br>
 
+## Teaching background and approach
+
+As a Teaching Assistant at the University of Wyoming, I delivered
+lectures, supervised laboratory projects, and provided feedback on
+assignments for more than 20 students. The virtual classroom format
+during the COVID-19 pandemic posed both challenges and opportunities. I
+sought to meet students where they were at, identify their individual
+learning goals, and engage with them not just as a TA, but also as a
+friendly face in an uncertain and socially difficult time. Given my own
+undergraduate experiences and the value of one-on-one discussions, I
+made extra time in my schedule for office hours to ensure that all
+students were getting the necessary level of support and type of
+instruction. My students have noted that I explain complex topics
+clearly, provide helpful feedback on assignments, and am approachable
+and enjoyable to meet with.
+
+In addition to regular classroom instruction, I've also contributed to
+courses as a guest lecturer, delivering instruction on Bayesian
+statistics at the graduate level.
+
+## Mentoring philosophy
+
+I believe flexible, adaptive mentorship is key to student success and
+essential for recruiting and retaining individuals from diverse
+backgrounds. I have mentored individuals at many career stages, from
+undergraduates seeking their first field experience, to advanced
+graduate students. Each mentee has required different forms of support,
+and I work to recognize these needs and adjust my mentorship approach
+accordingly. Regardless of career stage, I aim to support independence
+and creativity, while also promoting inclusiveness and camaraderie. My
+mentorship philosophy emphasizes team science, where students are
+treated as colleagues and collaborators. Above all, I prioritize student
+welfare and work to ensure each student gains the skills and confidence
+needed to succeed in their chosen career.
+
+## Outreach and engagement
+
+I enjoy organizing and contributing to a wide range of public outreach
+and science communication activities. These efforts not only broaden the
+impact of my research but also provide students and mentees with
+meaningful learning experiences that enrich their work and expand their
+career opportunities. For all outreach efforts, I work with my
+technicians and mentees to develop workshop materials, challenging them
+to translate what they learned in the field to impactful demonstrations
+and activities. I've found that providing mentees with outreach and
+science communication opportunities can enhance their experience in
+field biology and highlight adjacent career paths.
+<br><br>
+
+::: {layout-ncol="4"}
+![](../files/images/teaching/chig1.jpg){.lightbox group="my-gallery"}
+
+![](../files/images/teaching/chig2.jpg){.lightbox group="my-gallery"}
+
+![](../files/images/teaching/chig4.jpg){.lightbox group="my-gallery"}
+
+![](../files/images/teaching/chig5.jpg){.lightbox group="my-gallery"}
+
+![](../files/images/teaching/crew1.jpg){.lightbox group="my-gallery"}
+
+![](../files/images/teaching/crew2.jpg){.lightbox group="my-gallery"}
+
+![](../files/images/teaching/crew3.jpg){.lightbox group="my-gallery"}
+
+![](../files/images/teaching/crew4.jpg){.lightbox group="my-gallery"}
+
+![](../files/images/teaching/crew5.jpg){.lightbox group="my-gallery"}
+
+![](../files/images/teaching/crew6.jpg){.lightbox group="my-gallery"}
+
+![](../files/images/teaching/crew7.jpg){.lightbox group="my-gallery"}
+
+![](../files/images/teaching/crew8.jpg){.lightbox group="my-gallery"}
+
+![](../files/images/teaching/crew9.jpg){.lightbox group="my-gallery"}
+
+![](../files/images/teaching/jack1.jpg){.lightbox group="my-gallery"}
+
+![](../files/images/teaching/jack2.jpg){.lightbox group="my-gallery"}
+
+![](../files/images/teaching/jack3.jpg){.lightbox group="my-gallery"}
+
+![](../files/images/teaching/jack4.jpg){.lightbox group="my-gallery"}
+:::

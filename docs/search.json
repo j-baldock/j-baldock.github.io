@@ -1,10 +1,108 @@
 [
   {
-    "objectID": "teaching/teaching.html",
-    "href": "teaching/teaching.html",
-    "title": "Teaching and mentoring",
+    "objectID": "dataprod/dataproducts.html",
+    "href": "dataprod/dataproducts.html",
+    "title": "Open science, data visualization, and decision support tools",
+    "section": "",
+    "text": "I am passionate about open science and making my research and data as transparent and accessible as possible.\nAs much of my work is applied, I develop and contribute to data visualization and decision-support tools to increase the accessibility of my research and inform decision-making for conservation and management.\nI use R and RStudio for my statistical computing and GitHub for version control. I publish almost all of my projects to websites using Quarto, which I find incredibly effective for organizing my workflow and collaborating with other scientists. See below for a list of these sites."
+  },
+  {
+    "objectID": "dataprod/dataproducts.html#data-visualization-and-decision-support-tools",
+    "href": "dataprod/dataproducts.html#data-visualization-and-decision-support-tools",
+    "title": "Open science, data visualization, and decision support tools",
+    "section": "Data visualization and decision support tools",
+    "text": "Data visualization and decision support tools\n\nGroundwater Availability Data Viewer\n\n\n\n\n\nIn riverine ecosystems, groundwater is a key component of hydrologic budgets and groundwater-fed habitats are expected to serve as climate refuges for cold-water fish as groundwater input buffers against stressful water temperatures and hydrologic variability. Yet accurate, spatially continuous estimates of groundwater availability in river systems unavailable, particularly at spatial scales relevant to fisheries habitat management. In a recent paper, we applied machine learning techniques to remotely sense landscape data and field observations of groundwater springs to generate high-resolution, spatially continuous estimates of groundwater availability across the upper Snake River watershed, Wyoming. Explore the data visualization tools here.\n\n\n\n\nSTREAM: Simulation Toolkit for River Ecosystem Adaptive Managment\n\n\n Photo credit: Bureau of Reclamation\n\n\nClimate change and hydrologic alteration by dams are reshaping river systems worldwide, threatening freshwater biodiversity, ecosystem function, and the sustainability of critical ecosystem services. Environmental flows – allocating water specifically to sustain ecosystems – offer an opportunity to integrate ecosystem needs into water management. However, flow recommendations may need to be reassessed as climate change shifts the environmental context under which recommendations were originally developed.\nSTREAM is a decision support platform that simulates how changing streamflow and temperature influence the productivity of Yellowstone cutthroat trout in the upper Snake River watershed, Wyoming. Built for fisheries and water managers and conservation professionals, STREAM integrates long-term environmental and biological data to support adaptive, climate-resilient management strategies. STREAM is currently in beta testing. Access STREAM here.\n\n\n\n\nWySEaSON Stream Temperature Explorer\n\n\n\n\n\nTemperature is a “master variable” in aquatic ecosystems, influencing everything from water quality to the distribution of aquatic organisms. As part of my Ph.D., I established an extensive stream temperature monitoring network across the upper Snake River watershed, Wyoming, leveraging data collected by the University of Wyoming, U.S. Forest Service, U.S. Geological Survey, and Wyoming Game and Fish Department. This sensor network is maintained by the University of Wyoming. Click here to view and download the temperature data and access other tools to understand thermal regimes in this mountain ecosystem."
+  },
+  {
+    "objectID": "dataprod/dataproducts.html#project-websites",
+    "href": "dataprod/dataproducts.html#project-websites",
+    "title": "Open science, data visualization, and decision support tools",
+    "section": "Project websites",
+    "text": "Project websites\nHere is a list of Quarto websites supporting my research. Many of these projects are currently in progress and as such the websites are subject to change.\n\nEcoDrought: understanding fine-scale spatial heterogeneity in headwater streamflow (supporting book).\nTemp-Flow-Sensitivity: modeling the effect of streamflow on water temperature in headwater streams.\nYCT-ReddCounts-Ricker: quantifying the effects of changing climate and water management on trout productivity (STREAM decision support tool).\nSnakeRiver-GSI: use genetic stock identification to understand the riverscape factors that shape population diversity of cutthroat trout.\nPASTA-groundwater: exploratory work using paired air-stream temperature analysis to improve regional temperature modeling.\nSuper-Ricker: exploratory analysis to quantify the effects of superimposition rates on the strength of density dependence for cutthroat trout.\nSnakeRiverAssessment: evaluate Yellowstone cutthroat trout population trends for the WyACT Snake River Climate Assessment."
+  },
+  {
+    "objectID": "dataprod/dataproducts.html#data-releases",
+    "href": "dataprod/dataproducts.html#data-releases",
+    "title": "Open science, data visualization, and decision support tools",
+    "section": "Data releases",
+    "text": "Data releases\n\nBaldock JR. 2025. Redd count monitoring data for Yellowstone cutthroat trout spawning in groundwater-fed tributaries to the Snake River, Wyoming [Data set]. Zenodo Digital Repository, DOI: 10.5281/zenodo.17594482.\nAl-Chokhachy R, D’Angelo V, Baldock JR, Sauer HE, and Muhlfeld CC. 2025 Streamflow and stream temperature data from the Northern Rocky Mountains (2012 - 2023). U.S. Geological Survey data release, DOI: 10.5066/P1HQEFG4.\nAl-Chokhachy R, Baldock JR, and Walters AW. 2024. Fish sampling data, water temperature data, and groundwater spring location data from the upper Snake River basin, WY, 2021-2023. U.S. Geological Survey data release, DOI: 10.5066/P1YJCBPU.\nBaldock JR, Al-Chokhachy R, Campbell MR, and Walters A. 2023. Data from: Timing of reproduction underlies fitness tradeoffs for a salmonid fish. Zenodo Digital Repository, DOI: 10.5281/zenodo.7839081."
+  },
+  {
+    "objectID": "cv/cv.html",
+    "href": "cv/cv.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "presentations/presentations.html",
+    "href": "presentations/presentations.html",
+    "title": "Presentations",
     "section": "",
     "text": "Page under construction. Check back soon for updates!"
+  },
+  {
+    "objectID": "about/about.html",
+    "href": "about/about.html",
+    "title": "Hey there! Thanks for stopping by.",
+    "section": "",
+    "text": "Jeff Baldock, PhD - Aquatic Ecologist\n\nI am a Postdoctoral Scholar in the Department of Fisheries, Wildlife, and Conservation Sciences at Oregon State University, advised by Dr. Jonathan Armstrong. I recently completed an ORISE Postdoctoral Research Fellowship at the U.S. Geological Survey Northern Rocky Mountain Science Center and Eastern Ecological Science Center, with Drs. Jenn Fair and Ben Letcher. I received a PhD in Ecology and Evolution from the University of Wyoming in 2024, advised by Dr. Annika Walters in the USGS Wyoming Cooperative Fish and Wildlife Research Unit. I also hold a BSc from the School of Aquatic and Fishery Sciences at the University of Washington. Learn more about my background and research journey, below.\nMy current research seeks to understand how coldwater fish move and migrate to exploit spatiotemporal habitat heterogeneity across river networks, the value of migratory life histories to population-level processes, and how these concepts can be used as a framework to prioritize habitat restoration at regional scales. Learn more about my research interests →\nGet in touch by sending me a note!"
+  },
+  {
+    "objectID": "about/about.html#background",
+    "href": "about/about.html#background",
+    "title": "Hey there! Thanks for stopping by.",
+    "section": "Background",
+    "text": "Background\nI grew up in Nevada City, California, located in the foothills of the northern Sierra Nevada mountains. I was fortunate to have parents that instilled in me a deep appreciation for the outdoors (and fish!) at an early age. The summers of my childhood were ones of camping trips and lazy days along the South Fork Yuba River, where I spent most of my time watching rainbow trout through a mask and snorkel. My brother and I also spent countless days down at the lake with fishing rods and a can of worms, but we never seemed to catch anything."
+  },
+  {
+    "objectID": "about/about.html#research-journey",
+    "href": "about/about.html#research-journey",
+    "title": "Hey there! Thanks for stopping by.",
+    "section": "Research Journey",
+    "text": "Research Journey\nI started my undergraduate degree at the University of Washington, Seattle, in 2010. I soon found myself in an introductory fisheries class, where I discovered you could actually get paid to study fish. I then got a technician job with Dr. Daniel Schindler, prepping otoliths for microchemical analysis in addition to conducting other lab and field tasks. This position led to a summer field job with the Alaska Salmon Program, where I assisted with research and monitoring of salmon ecosystems in southwest Alaska. I also completed my capstone research during this first summer with ASP, which explored how juvenile coho salmon track shifting mosaics of temperature and food across river floodplains. This work was done in collaboration with Daniel and Jonny Armstrong. During my undergraduate I also participated in two field ecology programs, one at UW’s Friday Harbor Laboratories in Friday Harbor, Washington, and the other with the School for Field Studies in Bocas del Toro, Panama, where I studied ontogenetic habitat shifts in invasive Indo-Pacific lionfish.\nIn 2014, I received a B.Sc. in Aquatic and Fishery Sciences from the School of Aquatic and Fishery Sciences at the University of Washington. I continued to work for the Alaska Salmon Program for an additional four years, but now as a Field Biologist at ASP’s Chignik Lakes field station. In this role, I maintained long-term monitoring datasets of coastal salmon ecosystems, coordinated research activities with partner agencies, and helped communicate our science to the commercial and subsistence fishing communities. During the winter of 2016, I completed a short stint as a research technician in central Ecuador, where I assisted with a collaborative project investigating how local adaptation shapes climate vulnerability in stream macroinvertebrate communities. These immersive experiences (Alaska, Ecuador, Panama, and Friday Harbor) provided a strong background in field ecology and profoundly shaped my scientific and conservation ethos.\nI moved to Laramie, Wyoming, in 2018 to pursue a graduate degree with Dr. Annika Walters in the USGS Wyoming Cooperative Fish and Wildlife Research Unit at the University of Wyoming. I started as a Master’s student investigating the spawning ecology of Yellowstone cutthroat trout in groundwater-fed tributaries to the Snake River near Jackson, Wyoming. I soon bypassed to the PhD track and expanded my research to explore the effect of groundwater on recruitment dynamics and population diversity across the river network. During this time, I got involved with the WyACT project and led efforts to quantify the effects of changing climate and water management on trout population dynamics.\nI recently completed an ORISE Postdoctoral Research Fellowship at the U.S. Geological Survey, Northern Rocky Mountain Science Center. My research at USGS used data from distributed sensor networks to understand fine-scale spatial heterogeneity in streamflow and temperature, how spatial patterns change with interannual variability in drought conditions, and the effects of this dynamic heterogeneity on fish population demography and climate vulnerability. Drs. Jenn Fair, Ben Letcher, Clint Muhlfeld, Robert Al-Chokhachy, and Jason Dunham were (and still are) key collaborators on this work.\nMy research journey has come full circle. I am back working with Jonny Armstrong as a Postdoctoral Scholar at Oregon State University. My research seeks to understand how the “growth regime” can be used as a framework to prioritize habitat connectivity decisions at the regional scale. A key component of this work involves developing a theoretical model to understand the value of migratory life histories to population dynamics for coldwater fish. Dr. Tim Cline at Montana State University, Drs. Helen Neville, Dan Dauwalter, and Emma Lundberg at Trout Unlimited, and Dr. Seth Wenger at University of Georgia are key collaborators on this work."
+  },
+  {
+    "objectID": "about/about.html#for-fun",
+    "href": "about/about.html#for-fun",
+    "title": "Hey there! Thanks for stopping by.",
+    "section": "For Fun",
+    "text": "For Fun\nI enjoy spending time outside and connecting with the natural world. I fully embody the “master of none” approach to outdoor pursuits and can be found rock climbing, mountain biking, whitewater rafting, or fly fishing on any given weekend. I am fortunate that all of these activities are easily accessible from my current home in Bozeman, Montana. If I’m not outside, you can find me strumming a guitar or enjoying a cold beverage on a patio with friends."
+  },
+  {
+    "objectID": "research/research.html",
+    "href": "research/research.html",
+    "title": "Riverscape ecology in a changing world",
+    "section": "",
+    "text": "How do landscapes vary across space and time and what are the consequences of this variability for species and ecosystems? I study the relationships between climate, habitat, life history, and population dynamics of cold-water fishes across river networks. I conduct both basic and applied interdisciplinary research, integrating themes and approaches from landscape and population ecology, ecohydrology, and conservation biology. I work closely with stakeholders to co-produce science to guide conservation and management of cold-water fishes under accelerating global change."
+  },
+  {
+    "objectID": "research/research.html#stream-temperature-flow-and-groundwater",
+    "href": "research/research.html#stream-temperature-flow-and-groundwater",
+    "title": "Riverscape ecology in a changing world",
+    "section": "Stream temperature, flow, and groundwater",
+    "text": "Stream temperature, flow, and groundwater\n\n\n\n\n\nStream temperature and flow regulate water quality and shape species vital rates and behavior. I use statistical models to understand the patterns and drivers of stream temperature and flow in the context of climate warming and drought. I leverage in-situ data collected from distributed monitoring networks to predict riverine conditions at broader spatial and temporal scales. My work includes developing novel techniques for estimating groundwater availability and exploring the use of these data for improving models of stream flow and temperature.\n\n\n\nRelevant publications\n\nBaldock JR, Al-Chokhachy R, & Walters A. 2025. Groundwater structures fish growth and production across a riverscape. Freshwater Biology 70:e70112. DOI: 10.1111/fwb.70112\nBaldock JR, Fair JBH, Letcher BH, Al-Chokhachy R, Dunham JB, & Muhlfeld CC. Headwater streamflow variability is amplified by drought. In review at Nature Water.\nGauthier K, Baldock JR, & Walters A. Accounting for groundwater in daily spatial stream temperature models highlights climate refugia for native cold-water fish. Manuscript in preparation."
+  },
+  {
+    "objectID": "research/research.html#organismal-responses-to-habitat-heterogeneity",
+    "href": "research/research.html#organismal-responses-to-habitat-heterogeneity",
+    "title": "Riverscape ecology in a changing world",
+    "section": "Organismal responses to habitat heterogeneity",
+    "text": "Organismal responses to habitat heterogeneity\n\n\n\n\n\nSpatiotemporal habitat heterogeneity can impact the ecology of aquatic organisms through a variety of pathways. My interests here generally fall into two categories: movement strategies and population dynamics. In connected habitat networks, my research shows how mobile species and life stages move at diel, seasonal, and interannual time scales to track shifting habitat mosaics at reach to watershed spatial scales. For less mobile life stages or in fragmented habitat networks, I am interested in how habitat heterogeneity drives spatial diversity in population vital rates, such as growth and recruitment.\n\n\n\nRelevant publications\n\nBaldock JR, Armstrong JB, Schindler DE, & Carter JL. 2016. Juvenile coho salmon track a seasonally shifting thermal mosaic across a river floodplain. Freshwater Biology 61(9):1454-1465. DOI: 10.1111/fwb.12784\nWalsworth TE, Baldock JR, Schindler DE & Zimmerman CE. 2020. Interaction between watershed features and climate forcing affects habitat profitability for juvenile salmonids. Ecosphere 11(10): e03266. DOI: 10.1002/ecs2.3266\nBaldock JR, Al-Chokhachy R, & Walters A. 2025. Groundwater structures fish growth and production across a riverscape. Freshwater Biology 70:e70112. DOI: 10.1111/fwb.70112"
+  },
+  {
+    "objectID": "research/research.html#adaptive-water-management-to-support-ecosystems",
+    "href": "research/research.html#adaptive-water-management-to-support-ecosystems",
+    "title": "Riverscape ecology in a changing world",
+    "section": "Adaptive water management to support ecosystems",
+    "text": "Adaptive water management to support ecosystems\n\n\n Photo credit: Bureau of Reclamation\n\n\nClimate change and hydrologic alteration by dams are reshaping river ecosystems globally. Yet the combined effects of changing streamflow and temperature on population dynamics of ecologically and economically important species remain poorly understood. I apply population modelling techniques to long-term fisheries monitoring data to understand the drivers of population abundance across space and time. This work is done in collaboration with water and fisheries managers to help guide the development of adaptive environmental flow programs that are robust to changing climate conditions.\n\n\n\nRelevant publications\n\nBaldock JR, Al-Chokhachy R, Walsworth TE, & Walters. 2023. Redd superimposition mediates the accuracy, precision, and significance of redd counts for cutthroat trout. Canadian Journal of Aquatic and Fishery Sciences 80(5):825-839. DOI: 10.1139/cjfas-2022-0267\nBaldock JR, Cline TJ, Fetzer WW, & Walters A. Strategic water management can offset climate-driven declines in cold-water fish production. Submitted to Nature Climate Change."
+  },
+  {
+    "objectID": "research/research.html#population-and-life-history-diversity",
+    "href": "research/research.html#population-and-life-history-diversity",
+    "title": "Riverscape ecology in a changing world",
+    "section": "Population and life-history diversity",
+    "text": "Population and life-history diversity\n\n\n\n\n\nPopulation and life-history diversity confer resilience to environmental stochasticity, but the mechanisms underpinning this diversity are often not assessed. I use a variety of techniques (including genetic tools and behavioral observations) to understand the mechanisms that generate and maintain population and life-history diversity at multiple spatial scales and levels of organization. My interests range from fitness trade-offs associated with spawning behavior to spatial structure of river networks and variation in local habitat conditions.\n\n\n\nRelevant publications\n\nBaldock JR, Al-Chokhachy R, Campbell MR, & Walters A. 2023. Timing of reproduction underlies fitness trade-offs for a salmonid fish. Oikos e10184. DOI: 10.1111/oik.10184\nBaldock JR, Rosenthal WC, Campbell MR, Wagner CE, Al-Chokhachy R, & Walters A. Riverscape heterogeneity shapes population diversity for a migratory fish. In revision at Ecological Applications."
   },
   {
     "objectID": "publications/publications.html",
@@ -14,11 +112,11 @@
     "text": "Here’s a list of publications that have resulted from my research. You can follow this work on Google Scholar and ResearchGate. If you encounter a paywall, please email me and I will be happy to send you a copy of the paper."
   },
   {
-    "objectID": "publications/publications.html#in-review-or-revision",
-    "href": "publications/publications.html#in-review-or-revision",
+    "objectID": "publications/publications.html#submitted-manuscripts",
+    "href": "publications/publications.html#submitted-manuscripts",
     "title": "Publications",
-    "section": "In Review or Revision",
-    "text": "In Review or Revision\n\nBaldock JR, Fair JBH, Letcher BH, Al-Chokhachy R, Dunham JB, & Muhlfeld CC. Headwater streamflow variability is amplified by drought. In review at Nature Water.\nBaldock JR, Rosenthal WC, Campbell MR, Wagner CE, Al-Chokhachy R, & Walters A. Riverscape heterogeneity shapes population diversity for a migratory fish. In revision at Ecological Applications.\nBaldock JR, Cline TJ, Caskey S, Fetzet WW, Shuman BN, Walters A. Changing climate and dam management drive cold-water fish productivity across a river network. In review at Global Change Biology."
+    "section": "Submitted Manuscripts",
+    "text": "Submitted Manuscripts\n\nBaldock JR, Fair JBH, Letcher BH, Al-Chokhachy R, Dunham JB, & Muhlfeld CC. Headwater streamflow variability is amplified by drought. In review at Nature Water.\nBaldock JR, Rosenthal WC, Campbell MR, Wagner CE, Al-Chokhachy R, & Walters A. Riverscape heterogeneity shapes population diversity for a migratory fish. In revision at Ecological Applications.\nBaldock JR, Cline TJ, Fetzer WW, & Walters A. Strategic water management can offset climate-driven declines in cold-water fish production. Submitted to Nature Climate Change."
   },
   {
     "objectID": "publications/publications.html#section",
@@ -63,67 +161,32 @@
     "text": "E-mail\n  \n  \n      ORCID\n  \n  \n      Google Scholar\n  \n  \n      Research Gate\n  \n  \n    \n     GitHub\n  \n\n      \nI am an aquatic ecologist with broad interests in population and landscape ecology, ecohydrology, and conservation biology. I use field studies, statistical models, and genetic tools to study the linkages between habitat heterogeneity, life history, and population dynamics of freshwater fishes. I work closely with stakeholders to co-produce science that informs conservation and management under accelerating climate and hydrologic change.\nLearn more about me →"
   },
   {
-    "objectID": "dataprod/dataproducts.html",
-    "href": "dataprod/dataproducts.html",
-    "title": "Open science, data visualization, and decision support tools",
+    "objectID": "teaching/teaching.html",
+    "href": "teaching/teaching.html",
+    "title": "Teaching & mentoring",
     "section": "",
-    "text": "I am passionate about open science and making my research and data as transparent and accessible as possible.\nAs much of my work is applied, I am increasingly interested in developing and contributing to data visualization and decision-support tools to increase the accessibility of my research and inform decision-making for conservation and management.\nI use R and RStudio for my statistical computing and GitHub for version control. I publish almost all of my projects to websites using Quarto, which I find incredibly effective for organizing my workflow and collaborating with other scientists. See below for a list of these sites."
+    "text": "I am passionate about ecology and conservation, and I aim to share this enthusiasm through question-driven, student-guided teaching and flexible, transparent mentorship. My philosophy centers on meeting students where they are, fostering curiosity through experiential learning, and helping them build skills to think critically, ask meaningful questions, and synthesize knowledge. I adapt my guidance to the diverse backgrounds, needs, and career goals of my students and mentees, creating inclusive, supportive environments that encourage independence, discovery, and a sense of camaraderie in both the classroom and the field."
   },
   {
-    "objectID": "dataprod/dataproducts.html#data-visualization-and-decision-support-tools",
-    "href": "dataprod/dataproducts.html#data-visualization-and-decision-support-tools",
-    "title": "Open science, data visualization, and decision support tools",
-    "section": "Data visualization and decision support tools",
-    "text": "Data visualization and decision support tools\n\nGroundwater Availability Data Viewer\n\n\n\n\n\nIn riverine ecosystems, groundwater is a key component of hydrologic budgets and groundwater-fed habitats are expected to serve as climate refuges for cold-water fish as groundwater input buffers against stressful water temperatures and hydrologic variability. Yet accurate, spatially continuous estimates of groundwater availability in river systems unavailable, particularly at spatial scales relevant to fisheries habitat management. In a recent paper, we applied machine learning techniques to remotely sense landscape data and field observations of groundwater springs to generate high-resolution, spatially continuous estimates of groundwater availability across the upper Snake River watershed, Wyoming. Explore the data visualization tools here.\n\n\n\n\nSTREAM: Simulation Toolkit for River Ecosystem Adaptive Managment\n\n\n Photo credit: Bureau of Reclamation\n\n\nClimate change and hydrologic alteration by dams are reshaping river systems worldwide, threatening freshwater biodiversity, ecosystem function, and the sustainability of critical ecosystem services. Environmental flows – allocating water specifically to sustain ecosystems – offer an opportunity to integrate ecosystem needs into water management. However, flow recommendations may need to be reassessed as climate change shifts the environmental context under which recommendations were originally developed.\nSTREAM is a decision support platform that simulates how changing streamflow and temperature influence the productivity of Yellowstone cutthroat trout in the upper Snake River watershed, Wyoming. Built for fisheries and water managers and conservation professionals, STREAM integrates long-term environmental and biological data to support adaptive, climate-resilient management strategies. STREAM is currently in beta testing. Access STREAM here.\n\n\n\n\nWySEaSON Stream Temperature Explorer\n\n\n\n\n\nTemperature is a “master variable” in aquatic ecosystems, influencing everything from water quality to the distribution of aquatic organisms. As part of my Ph.D., I established an extensive stream temperature monitoring network across the upper Snake River watershed, Wyoming, leveraging data collected by the University of Wyoming, U.S. Forest Service, U.S. Geological Survey, and Wyoming Game and Fish Department. This sensor network is maintained by the University of Wyoming. Click here to view and download the temperature data and access other tools to understand thermal regimes in this mountain ecosystem."
+    "objectID": "teaching/teaching.html#teaching-background-and-approach",
+    "href": "teaching/teaching.html#teaching-background-and-approach",
+    "title": "Teaching & mentoring",
+    "section": "Teaching background and approach",
+    "text": "Teaching background and approach\nAs a Teaching Assistant at the University of Wyoming, I delivered lectures, supervised laboratory projects, and provided feedback on assignments for more than 20 students. The virtual classroom format during the COVID-19 pandemic posed both challenges and opportunities. I sought to meet students where they were at, identify their individual learning goals, and engage with them not just as a TA, but also as a friendly face in an uncertain and socially difficult time. Given my own undergraduate experiences and the value of one-on-one discussions, I made extra time in my schedule for office hours to ensure that all students were getting the necessary level of support and type of instruction. My students have noted that I explain complex topics clearly, provide helpful feedback on assignments, and am approachable and enjoyable to meet with.\nIn addition to regular classroom instruction, I’ve also contributed to courses as a guest lecturer, delivering instruction on Bayesian statistics at the graduate level."
   },
   {
-    "objectID": "dataprod/dataproducts.html#project-websites",
-    "href": "dataprod/dataproducts.html#project-websites",
-    "title": "Open science, data visualization, and decision support tools",
-    "section": "Project websites",
-    "text": "Project websites\nHere is a list of Quarto websites supporting my research. Many of these projects are currently in progress and as such the websites are subject to change.\n\nEcoDrought: understanding fine-scale spatial heterogeneity in headwater streamflow (supporting book).\nTemp-Flow-Sensitivity: modeling the effect of streamflow on water temperature in headwater streams.\nYCT-ReddCounts-Ricker: quantifying the effects of changing climate and water management on trout productivity (STREAM decision support tool).\nSnakeRiver-GSI: use genetic stock identification to understand the riverscape factors that shape population diversity of cutthroat trout.\nPASTA-groundwater: exploratory work using paired air-stream temperature analysis to improve regional temperature modeling.\nSuper-Ricker: exploratory analysis to quantify the effects of superimposition rates on the strength of density dependence for cutthroat trout.\nSnakeRiverAssessment: evaluate Yellowstone cutthroat trout population trends for the WyACT Snake River Climate Assessment."
+    "objectID": "teaching/teaching.html#mentoring-philosophy",
+    "href": "teaching/teaching.html#mentoring-philosophy",
+    "title": "Teaching & mentoring",
+    "section": "Mentoring philosophy",
+    "text": "Mentoring philosophy\nI believe flexible, adaptive mentorship is key to student success and essential for recruiting and retaining individuals from diverse backgrounds. I have mentored individuals at many career stages, from undergraduates seeking their first field experience, to advanced graduate students. Each mentee has required different forms of support, and I work to recognize these needs and adjust my mentorship approach accordingly. Regardless of career stage, I aim to support independence and creativity, while also promoting inclusiveness and camaraderie. My mentorship philosophy emphasizes team science, where students are treated as colleagues and collaborators. Above all, I prioritize student welfare and work to ensure each student gains the skills and confidence needed to succeed in their chosen career."
   },
   {
-    "objectID": "dataprod/dataproducts.html#data-releases",
-    "href": "dataprod/dataproducts.html#data-releases",
-    "title": "Open science, data visualization, and decision support tools",
-    "section": "Data releases",
-    "text": "Data releases\n\nBaldock JR. 2025. Redd count monitoring data for Yellowstone cutthroat trout spawning in groundwater-fed tributaries to the Snake River, Wyoming [Data set]. Zenodo Digital Repository, DOI: 10.5281/zenodo.17594482.\nAl-Chokhachy R, D’Angelo V, Baldock JR, Sauer HE, and Muhlfeld CC. 2025 Streamflow and stream temperature data from the Northern Rocky Mountains (2012 - 2023). U.S. Geological Survey data release, DOI: 10.5066/P1HQEFG4.\nAl-Chokhachy R, Baldock JR, and Walters AW. 2024. Fish sampling data, water temperature data, and groundwater spring location data from the upper Snake River basin, WY, 2021-2023. U.S. Geological Survey data release, DOI: 10.5066/P1YJCBPU.\nBaldock JR, Al-Chokhachy R, Campbell MR, and Walters A. 2023. Data from: Timing of reproduction underlies fitness tradeoffs for a salmonid fish. Zenodo Digital Repository, DOI: 10.5281/zenodo.7839081."
-  },
-  {
-    "objectID": "about/about.html",
-    "href": "about/about.html",
-    "title": "Hey there! Thanks for stopping by.",
-    "section": "",
-    "text": "Jeff Baldock, PhD - Aquatic Ecologist\n\nI am an ORISE Postdoctoral Research Fellow at the U.S. Geological Survey Northern Rocky Mountain Science Center and Eastern Ecological Science Center, advised by Drs. Jenn Fair and Ben Letcher. I received a PhD in Ecology and Evolution from the University of Wyoming in 2024, advised by Dr. Annika Walters in the USGS Wyoming Cooperative Fish and Wildlife Research Unit. I also hold a BSc from the School of Aquatic and Fishery Sciences at the University of Washington. Learn more about my background and research journey, below.\nMy current research uses data from distributed sensor networks to understand fine-scale spatial heterogeneity in streamflow and temperature, how spatial patterns change with interannual variability in drought conditions, and the effects of this dynamic heterogeneity on fish population demography and climate vulnerability. Learn more about my research interests →\nGet in touch by sending me a note!"
-  },
-  {
-    "objectID": "about/about.html#background",
-    "href": "about/about.html#background",
-    "title": "Hey there! Thanks for stopping by.",
-    "section": "Background",
-    "text": "Background\nI grew up in Nevada City, California, located in the foothills of the northern Sierra Nevada mountains. I was fortunate to have parents that instilled in me a deep appreciation for the outdoors (and fish!) at an early age. The summers of my childhood were ones of camping trips and lazy days along the South Fork Yuba River, where I spent most of my time watching rainbow trout through a mask and snorkel. My brother and I also spent countless days down at the lake with fishing rods and a can of worms, but we never seemed to catch anything."
-  },
-  {
-    "objectID": "about/about.html#research-journey",
-    "href": "about/about.html#research-journey",
-    "title": "Hey there! Thanks for stopping by.",
-    "section": "Research Journey",
-    "text": "Research Journey\nI started my undergraduate degree at the University of Washington, Seattle, in 2010. I soon found myself in an introductory fisheries class, where I discovered you could actually get paid to study fish. I then got a technician job with Dr. Daniel Schindler, prepping otoliths for microchemical analysis in addition to conducting other lab and field tasks. This position led to a summer field job with the Alaska Salmon Program, where I assisted with research and monitoring of salmon ecosystems in southwest Alaska. I also completed my capstone research during this first summer with ASP, which explored how juvenile coho salmon track shifting mosaics of temperature and food across river floodplains. This work was done in collaboration with Daniel and Dr. Jonny Armstrong. During my undergraduate I also participated in two field ecology programs, one at UW’s Friday Harbor Laboratories in Friday Harbor, Washington, and the other with the School for Field Studies in Bocas del Toro, Panama, where I studied ontogenetic habitat shifts in invasive Indo-Pacific lionfish.\nIn 2014, I received a B.Sc. in Aquatic and Fishery Sciences from the School of Aquatic and Fishery Sciences at the University of Washington. I continued to work for the Alaska Salmon Program for an additional four years, but now as a Field Biologist at ASP’s Chignik Lakes field station. In this role, I maintained long-term monitoring datasets of coastal salmon ecosystems, coordinated research activities with partner agencies, and helped communicate our science to the commercial and subsistence fishing communities. During the winter of 2016, I completed a short stint as a research technician in central Ecuador, where I assisted with a collaborative project investigating how local adaptation shapes climate vulnerability in stream macroinvertebrate communities. These immersive experiences (Alaska, Ecuador, Panama, and Friday Harbor) provided a strong background in field ecology and profoundly shaped my scientific and conservation ethos.\nI moved to Laramie, Wyoming, in 2018 to pursue a graduate degree with Dr. Annika Walters in the USGS Wyoming Cooperative Fish and Wildlife Research Unit at the University of Wyoming. I started as a Master’s student investigating the spawning ecology of Yellowstone cutthroat trout in groundwater-fed tributaries to the Snake River near Jackson, Wyoming. I soon bypassed to the PhD track and expanded my research to explore the effect of groundwater on recruitment dynamics and population diversity across the river network. During this time, I got involved with the WyACT project and led efforts to quantify the effects of changing climate and water management on trout population dynamics.\nI am currently an ORISE Postdoctoral Research Fellow at the U.S. Geological Survey, Northern Rocky Mountain Science Center. My research at USGS is focused on spatial heterogeneity in headwater flow regimes, how spatial patterns change with prevailing climate (i.e., drought), and the implications of this dynamic heterogeneity for species vulnerability assessments. Drs. Jenn Fair, Ben Letcher, Clint Muhlfeld, Robert Al-Chokhachy, and Jason Dunham are key collaborators on this work."
-  },
-  {
-    "objectID": "about/about.html#for-fun",
-    "href": "about/about.html#for-fun",
-    "title": "Hey there! Thanks for stopping by.",
-    "section": "For Fun",
-    "text": "For Fun\nLike many in our field, I enjoy spending time outside and connecting with the natural world. I fully embody the “master of none” approach to outdoor pursuits and can be found rock climbing, mountain biking, whitewater rafting, or fly fishing on any given weekend. I am fortunate that all of these activities are easily accessible from my current home in Bozeman, Montana. If I’m not outside, you can find me strumming a guitar or enjoying a cold beverage on a patio with friends."
-  },
-  {
-    "objectID": "cv/cv.html",
-    "href": "cv/cv.html",
-    "title": "Curriculum vitae",
-    "section": "",
-    "text": "Download current CV"
+    "objectID": "teaching/teaching.html#outreach-and-engagement",
+    "href": "teaching/teaching.html#outreach-and-engagement",
+    "title": "Teaching & mentoring",
+    "section": "Outreach and engagement",
+    "text": "Outreach and engagement\nI enjoy organizing and contributing to a wide range of public outreach and science communication activities. These efforts not only broaden the impact of my research but also provide students and mentees with meaningful learning experiences that enrich their work and expand their career opportunities. For all outreach efforts, I work with my technicians and mentees to develop workshop materials, challenging them to translate what they learned in the field to impactful demonstrations and activities. I’ve found that providing mentees with outreach and science communication opportunities can enhance their experience in field biology and highlight adjacent career paths."
   },
   {
     "objectID": "events/events.html",
@@ -131,47 +194,5 @@
     "title": "Events",
     "section": "",
     "text": "Page under construction. Check back soon for updates!"
-  },
-  {
-    "objectID": "presentations/presentations.html",
-    "href": "presentations/presentations.html",
-    "title": "Presentations",
-    "section": "",
-    "text": "Page under construction. Check back soon for updates!"
-  },
-  {
-    "objectID": "research/research.html",
-    "href": "research/research.html",
-    "title": "Riverscape ecology in a changing world",
-    "section": "",
-    "text": "How do landscapes vary across space and time and what are the consequences of this variability for species and ecosystems? Understanding the drivers of landscape diversity and how this affects population dynamics and ecosystem function is foundational to the science of ecology and is critical for predicting and managing the effects of global change. My research occurs at the nexus of landscape and population ecology, ecohydrology, and conservation biology to understand river ecosystems across space and time. Much of my work is focused on migratory salmonid fishes that support economically and culturally valuable fisheries. I work closely with stakeholders to co-produce science that informs conservation and management under accelerating climate and hydrologic change."
-  },
-  {
-    "objectID": "research/research.html#stream-temperature-flow-and-groundwater",
-    "href": "research/research.html#stream-temperature-flow-and-groundwater",
-    "title": "Riverscape ecology in a changing world",
-    "section": "Stream temperature, flow, and groundwater",
-    "text": "Stream temperature, flow, and groundwater\n\n\n\n\n\nStream temperature and flow determine water quality and regulate individual and population vital rates for riverine organisms. I apply statistical models to remotely sensed landscape data and in-situ data collected from distributed monitoring networks to unravel the patterns and drivers of stream temperature and flow across space and time. My work includes developing novel techniques for estimating groundwater availability and exploring the use of these data for improving models of stream flow and temperature.\n\n\n\nRelevant publications\n\nBaldock JR, Al-Chokhachy R, & Walters A. 2025. Groundwater structures fish growth and production across a riverscape. Freshwater Biology 70:e70112. DOI: 10.1111/fwb.70112\nBaldock JR, Fair JBH, Letcher BH, Al-Chokhachy R, Dunham JB, & Muhlfeld CC. Headwater streamflow variability is amplified by drought. In review at Nature Water.\nGauthier K, Baldock JR, & Walters A. Accounting for groundwater in daily spatial stream temperature models highlights climate refugia for native cold-water fish. Manuscript in preparation."
-  },
-  {
-    "objectID": "research/research.html#organismal-responses-to-habitat-heterogeneity",
-    "href": "research/research.html#organismal-responses-to-habitat-heterogeneity",
-    "title": "Riverscape ecology in a changing world",
-    "section": "Organismal responses to habitat heterogeneity",
-    "text": "Organismal responses to habitat heterogeneity\n\n\n\n\n\nSpatiotemporal habitat heterogeneity can impact the ecology of aquatic organisms through a variety of pathways. My interests here generally fall into two categories: movement strategies and population dynamics. In connected habitat networks, my research shows how mobile species and life stages move at diel, seasonal, and interannual time scales to track shifting habitat mosaics at reach to watershed spatial scales. For less mobile life stages or in fragmented habitat networks, I am interested in how habitat heterogeneity drives spatial diversity in population vital rates, such as growth and recruitment.\n\n\n\nRelevant publications\n\nWalsworth TE, Baldock JR, Schindler DE & Zimmerman CE. 2020. Interaction between watershed features and climate forcing affects habitat profitability for juvenile salmonids. Ecosphere 11(10): e03266. DOI: 10.1002/ecs2.3266\nBaldock JR, Armstrong JB, Schindler DE, & Carter JL. 2016. Juvenile coho salmon track a seasonally shifting thermal mosaic across a river floodplain. Freshwater Biology 61(9):1454-1465. DOI: 10.1111/fwb.12784\nBaldock JR, Al-Chokhachy R, & Walters A. 2025. Groundwater structures fish growth and production across a riverscape. Freshwater Biology 70:e70112. DOI: 10.1111/fwb.70112"
-  },
-  {
-    "objectID": "research/research.html#adaptive-water-management-to-support-ecosystems",
-    "href": "research/research.html#adaptive-water-management-to-support-ecosystems",
-    "title": "Riverscape ecology in a changing world",
-    "section": "Adaptive water management to support ecosystems",
-    "text": "Adaptive water management to support ecosystems\n\n\n\n\n\nClimate change and hydrologic alteration by dams are reshaping river ecosystems globally. Yet the combined effects of changing streamflow and temperature on population dynamics of ecologically and economically important species remain poorly understood. I apply population modelling techniques to long-term fisheries monitoring data to understand the drivers of population abundance across space and time. This work is done in collaboration with water and fisheries managers to help guide the development of adaptive environmental flow programs that are robust to changing climate conditions.\n\n\n\nRelevant publications\n\nBaldock JR, Al-Chokhachy R, Walsworth TE, & Walters. 2023. Redd superimposition mediates the accuracy, precision, and significance of redd counts for cutthroat trout. Canadian Journal of Aquatic and Fishery Sciences 80(5):825-839. DOI: 10.1139/cjfas-2022-0267\nBaldock JR, Cline TJ, Caskey S, Fetzet WW, Shuman BN, Walters A. Climate and dam management influence productivity of a cold-water fish across a river network. In review at Global Change Biology."
-  },
-  {
-    "objectID": "research/research.html#population-and-life-history-diversity",
-    "href": "research/research.html#population-and-life-history-diversity",
-    "title": "Riverscape ecology in a changing world",
-    "section": "Population and life-history diversity",
-    "text": "Population and life-history diversity\n\n\n\n\n\nPopulation and life-history diversity confer resilience to environmental stochasticity, but the mechanisms underpinning this diversity are often not assessed. I use a variety of techniques (including genetic tools and behavioral observations) to understand the mechanisms that generate and maintain population and life-history diversity at multiple spatial scales and levels of organization. My interests range from fitness trade-offs associated with spawning behavior to spatial structure of river networks and variation in local habitat conditions.\n\n\n\nRelevant publications\n\nBaldock JR, Al-Chokhachy R, Campbell MR, & Walters A. 2023. Timing of reproduction underlies fitness trade-offs for a salmonid fish. Oikos e10184. DOI: 10.1111/oik.10184\nBaldock JR, Rosenthal WC, Campbell MR, Wagner CE, Al-Chokhachy R, & Walters A. Riverscape heterogeneity shapes population diversity for a migratory fish. In revision at Ecological Applications."
   }
 ]

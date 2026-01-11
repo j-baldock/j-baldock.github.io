@@ -30,14 +30,12 @@ website:
         href: research/research.qmd
       - text: "Publications"
         href: publications/publications.qmd
-      - text: "Outreach"
+      - text: "Teaching & outreach"
         menu: 
+          - text: "Teaching & mentoring"
+            href: teaching/teaching.qmd
           - text: "Presentations"
             href: presentations/presentations.qmd
-          - text: "Teaching and mentoring"
-            href: teaching/teaching.qmd
-          - text: "Events"
-            href: events/events.qmd
       - text: "Open science & data"
         href: dataprod/dataproducts.qmd
     right:

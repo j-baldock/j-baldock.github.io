@@ -12,3 +12,4 @@ quarto::quarto_render(output_format = "html")
 
 quarto::quarto_render("cv/cv.qmd", output_format = "html")
 quarto::quarto_render("dataprod/dataproducts.qmd", output_format = "html")
+quarto::quarto_render("teaching/teaching.qmd", output_format = "html")

@@ -8,18 +8,18 @@ format:
 page-layout: full
 ---
 
-How do landscapes vary across space and time and what are the consequences of this variability for species and ecosystems? Understanding the drivers of landscape diversity and how this affects population dynamics and ecosystem function is foundational to the science of ecology and is critical for predicting and managing the effects of global change. My research occurs at the nexus of landscape and population ecology, ecohydrology, and conservation biology to understand river ecosystems across space and time. Much of my work is focused on migratory salmonid fishes that support economically and culturally valuable fisheries. I work closely with stakeholders to co-produce science that informs conservation and management under accelerating climate and hydrologic change.
+**How do landscapes vary across space and time and what are the consequences of this variability for species and ecosystems?** I study the relationships between *climate*, *habitat*, *life history*, and *population dynamics* of cold-water fishes across river networks. I conduct both basic and applied interdisciplinary research, integrating themes and approaches from *landscape and population ecology*, *ecohydrology*, and *conservation biology*. I work closely with stakeholders to co-produce science to guide conservation and management of cold-water fishes under accelerating global change.
 <br><br>
 
 ## Stream temperature, flow, and groundwater
 
 ::::: grid
 ::: g-col-5
-![](../files/images/LowFlowFig.png)
+![](../files/images/jimmybrook.jpeg)
 :::
 
 ::: g-col-7
-Stream temperature and flow determine water quality and regulate individual and population vital rates for riverine organisms. I apply statistical models to remotely sensed landscape data and *in-situ* data collected from distributed monitoring networks to unravel the patterns and drivers of stream temperature and flow across space and time. My work includes developing novel techniques for estimating groundwater availability and exploring the use of these data for improving models of stream flow and temperature.
+Stream temperature and flow regulate water quality and shape species vital rates and behavior. I use statistical models to understand the patterns and drivers of stream temperature and flow in the context of climate warming and drought. I leverage *in-situ* data collected from distributed monitoring networks to predict riverine conditions at broader spatial and temporal scales. My work includes developing novel techniques for estimating groundwater availability and exploring the use of these data for improving models of stream flow and temperature.
 :::
 :::::
 
@@ -36,7 +36,7 @@ Stream temperature and flow determine water quality and regulate individual and 
 
 ::::: grid
 ::: g-col-5
-![](../files/images/ProductionFig.png)
+![](../files/images/yoythreechan.jpg)
 :::
 
 ::: g-col-7
@@ -46,9 +46,9 @@ Spatiotemporal habitat heterogeneity can impact the ecology of aquatic organisms
 
 ### Relevant publications
 
--   Walsworth TE, **Baldock JR**, Schindler DE & Zimmerman CE. 2020. Interaction between watershed features and climate forcing affects habitat profitability for juvenile salmonids. Ecosphere 11(10): e03266. DOI: [10.1002/ecs2.3266](https://doi.org/10.1002/ecs2.3266)
-
 -   **Baldock JR**, Armstrong JB, Schindler DE, & Carter JL. 2016. Juvenile coho salmon track a seasonally shifting thermal mosaic across a river floodplain. Freshwater Biology 61(9):1454-1465. DOI: [10.1111/fwb.12784](https://doi.org/10.1111/fwb.12784)
+
+-   Walsworth TE, **Baldock JR**, Schindler DE & Zimmerman CE. 2020. Interaction between watershed features and climate forcing affects habitat profitability for juvenile salmonids. Ecosphere 11(10): e03266. DOI: [10.1002/ecs2.3266](https://doi.org/10.1002/ecs2.3266)
 
 -   **Baldock JR**, Al-Chokhachy R, & Walters A. 2025. Groundwater structures fish growth and production across a riverscape. *Freshwater Biology* 70:e70112. DOI: [10.1111/fwb.70112](https://doi.org/10.1111/fwb.70112) 
 
@@ -57,7 +57,8 @@ Spatiotemporal habitat heterogeneity can impact the ecology of aquatic organisms
 
 ::::: grid
 ::: g-col-5
-![](../files/images/ScenarioFig.png)
+![](../files/images/jld_bor.png)
+*Photo credit: Bureau of Reclamation*
 :::
 
 ::: g-col-7
@@ -69,14 +70,14 @@ Climate change and hydrologic alteration by dams are reshaping river ecosystems 
 
 -   **Baldock JR**, Al-Chokhachy R, Walsworth TE, & Walters. 2023. Redd superimposition mediates the accuracy, precision, and significance of redd counts for cutthroat trout. Canadian Journal of Aquatic and Fishery Sciences 80(5):825-839. DOI: [10.1139/cjfas-2022-0267](https://doi.org/10.1139/cjfas-2022-0267)
 
--   **Baldock JR**, Cline TJ, Caskey S, Fetzet WW, Shuman BN, Walters A. Climate and dam management influence productivity of a cold-water fish across a river network. In review at *Global Change Biology*.
+-   **Baldock JR**, Cline TJ, Fetzer WW, & Walters A. Strategic water management can offset climate-driven declines in cold-water fish production. Submitted to *Nature Climate Change*.
 
 
 ## Population and life-history diversity
 
 ::::: grid
 ::: g-col-5
-![](../files/images/ContributionFig.png)
+![](../files/images/yctsample.jpg)
 :::
 
 ::: g-col-7

@@ -10,7 +10,7 @@ page-layout: full
 
 I am passionate about **open science** and making my research and data as **transparent and accessible** as possible. 
 
-As much of my work is applied, I am increasingly interested in developing and contributing to **data visualization and decision-support tools** to increase the accessibility of my research and inform decision-making for conservation and management. 
+As much of my work is applied, I develop and contribute to **data visualization and decision-support tools** to increase the accessibility of my research and inform decision-making for conservation and management. 
 
 I use [R](https://www.r-project.org/) and [RStudio](https://posit.co/download/rstudio-desktop/) for my statistical computing and [GitHub](https://github.com/j-baldock) for version control. I publish almost all of my projects to websites using [Quarto](https://quarto.org/docs/websites/), which I find incredibly effective for **organizing my workflow and collaborating** with other scientists. See below for a list of these sites. 
 <br><br>

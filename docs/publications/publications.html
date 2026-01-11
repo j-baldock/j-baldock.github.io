@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -33,14 +33,15 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="../">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-cc63fce9873912f1bbbccf05079cc9ea.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-f93c2b1f3f0577f377aefa4848a86a36.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="../site_libs/quarto-contrib/academicons-1.9.4/all.css" rel="stylesheet">
 <link href="../site_libs/quarto-contrib/academicons-1.9.4/size.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -104,21 +105,17 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-outreach" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Outreach</span>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-teaching--outreach" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Teaching &amp; outreach</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-outreach">    
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-teaching--outreach">    
+        <li>
+    <a class="dropdown-item" href="../teaching/teaching.html">
+ <span class="dropdown-text">Teaching &amp; mentoring</span></a>
+  </li>  
         <li>
     <a class="dropdown-item" href="../presentations/presentations.html">
  <span class="dropdown-text">Presentations</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../teaching/teaching.html">
- <span class="dropdown-text">Teaching and mentoring</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../events/events.html">
- <span class="dropdown-text">Events</span></a>
   </li>  
     </ul>
   </li>
@@ -185,12 +182,12 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>Here’s a list of publications that have resulted from my research. You can follow this work on <a href="https://scholar.google.com/citations?user=CRU3WVMAAAAJ&amp;hl=en">Google Scholar</a> and <a href="https://www.researchgate.net/profile/Jeff-Baldock">ResearchGate</a>. If you encounter a paywall, please email me and I will be happy to send you a copy of the paper. <br><br></p>
-<section id="in-review-or-revision" class="level2">
-<h2 class="anchored" data-anchor-id="in-review-or-revision">In Review or Revision</h2>
+<section id="submitted-manuscripts" class="level2">
+<h2 class="anchored" data-anchor-id="submitted-manuscripts">Submitted Manuscripts</h2>
 <ul>
 <li><p><strong>Baldock JR</strong>, Fair JBH, Letcher BH, Al-Chokhachy R, Dunham JB, &amp; Muhlfeld CC. Headwater streamflow variability is amplified by drought. <em>In review</em> at <em>Nature Water</em>.</p></li>
 <li><p><strong>Baldock JR</strong>, Rosenthal WC, Campbell MR, Wagner CE, Al-Chokhachy R, &amp; Walters A. Riverscape heterogeneity shapes population diversity for a migratory fish. <em>In revision</em> at <em>Ecological Applications</em>.</p></li>
-<li><p><strong>Baldock JR</strong>, Cline TJ, Caskey S, Fetzet WW, Shuman BN, Walters A. Changing climate and dam management drive cold-water fish productivity across a river network. <em>In review</em> at <em>Global Change Biology</em>.</p></li>
+<li><p><strong>Baldock JR</strong>, Cline TJ, Fetzer WW, &amp; Walters A. Strategic water management can offset climate-driven declines in cold-water fish production. <em>Submitted</em> to <em>Nature Climate Change</em>.</p></li>
 </ul>
 </section>
 <section id="section" class="level2">
@@ -279,13 +276,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

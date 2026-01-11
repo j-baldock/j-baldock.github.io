@@ -69,37 +69,37 @@ field biology and highlight adjacent career paths.
 <br><br>
 
 ::: {layout-ncol="4"}
-![](../files/images/teaching/chig1.jpg){.lightbox group="my-gallery"}
+![](../files/images/chig1.jpg){.lightbox group="my-gallery"}
 
-![](../files/images/teaching/chig2.jpg){.lightbox group="my-gallery"}
+![](../files/images/chig2.jpg){.lightbox group="my-gallery"}
 
-![](../files/images/teaching/chig4.jpg){.lightbox group="my-gallery"}
+![](../files/images/chig4.jpg){.lightbox group="my-gallery"}
 
-![](../files/images/teaching/chig5.jpg){.lightbox group="my-gallery"}
+![](../files/images/chig5.jpg){.lightbox group="my-gallery"}
 
-![](../files/images/teaching/crew1.jpg){.lightbox group="my-gallery"}
+![](../files/images/crew1.jpg){.lightbox group="my-gallery"}
 
-![](../files/images/teaching/crew2.jpg){.lightbox group="my-gallery"}
+![](../files/images/crew2.jpg){.lightbox group="my-gallery"}
 
-![](../files/images/teaching/crew3.jpg){.lightbox group="my-gallery"}
+![](../files/images/crew3.jpg){.lightbox group="my-gallery"}
 
-![](../files/images/teaching/crew4.jpg){.lightbox group="my-gallery"}
+![](../files/images/crew4.jpg){.lightbox group="my-gallery"}
 
-![](../files/images/teaching/crew5.jpg){.lightbox group="my-gallery"}
+![](../files/images/crew5.jpg){.lightbox group="my-gallery"}
 
-![](../files/images/teaching/crew6.jpg){.lightbox group="my-gallery"}
+![](../files/images/crew6.jpg){.lightbox group="my-gallery"}
 
-![](../files/images/teaching/crew7.jpg){.lightbox group="my-gallery"}
+![](../files/images/crew7.jpg){.lightbox group="my-gallery"}
 
-![](../files/images/teaching/crew8.jpg){.lightbox group="my-gallery"}
+![](../files/images/crew8.jpg){.lightbox group="my-gallery"}
 
-![](../files/images/teaching/crew9.jpg){.lightbox group="my-gallery"}
+![](../files/images/crew9.jpg){.lightbox group="my-gallery"}
 
-![](../files/images/teaching/jack1.jpg){.lightbox group="my-gallery"}
+![](../files/images/jack1.jpg){.lightbox group="my-gallery"}
 
-![](../files/images/teaching/jack2.jpg){.lightbox group="my-gallery"}
+![](../files/images/jack2.jpg){.lightbox group="my-gallery"}
 
-![](../files/images/teaching/jack3.jpg){.lightbox group="my-gallery"}
+![](../files/images/jack3.jpg){.lightbox group="my-gallery"}
 
-![](../files/images/teaching/jack4.jpg){.lightbox group="my-gallery"}
+![](../files/images/jack4.jpg){.lightbox group="my-gallery"}
 :::

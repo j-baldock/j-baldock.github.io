@@ -1,14 +1,11 @@
 ---
 title: "Teaching & mentoring"
 title-block-banner: true
-# format:
-#   html:
-#     embed-resources: true
+format:
+  html:
+    embed-resources: true
 page-layout: full
 lightbox: true
-editor: 
-  markdown: 
-    wrap: 72
 ---
 
 I am passionate about ecology and conservation, and I aim to share this

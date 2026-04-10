@@ -4,7 +4,7 @@ title-block-banner: true
 page-layout: full
 format: html
 published-title: CV last updated
-date: 2026-01-07
+date: 2026-04-10
 cv:
   pdf: "Baldock_CV_April2026.pdf"
 ---

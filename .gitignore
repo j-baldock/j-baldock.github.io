@@ -3,3 +3,4 @@
 .Rproj.user
 files/
 **/*.quarto_ipynb
+.positai

@@ -45,7 +45,7 @@ website:
         href: https://github.com/j-baldock
         target: _blank
       - text: "{{< ai google-scholar size=Large >}}"
-        href: https://scholar-google-com.usgslibrary.idm.oclc.org/citations?user=CRU3WVMAAAAJ&hl=en
+        href: https://scholar.google.com/citations?user=CRU3WVMAAAAJ&hl=en&oi=sra
         target: _blank
       - text: "{{< ai researchgate size=Large >}}"
         href: https://www.researchgate.net/profile/Jeff-Baldock

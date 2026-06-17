@@ -1,5 +1,5 @@
 ---
-title: "Open science, data visualization, and decision support tools"
+title: "Open science, data visualization, & decision support tools"
 title-block-banner: true
 include-in-header:
   text: |

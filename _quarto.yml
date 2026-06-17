@@ -3,6 +3,7 @@ project:
   output-dir: docs
   resources:
     - files/**
+  pre-render: update_date.R
 
 #   
 # execute: 
@@ -25,6 +26,8 @@ website:
     left: 
       # - text: "Home"
       #   href: index.qmd
+      - text: "News"
+        href: news/news.qmd
       - text: "About"
         href: about/about.qmd
       - text: "Research"
@@ -57,7 +60,8 @@ website:
 
   page-footer:  
     left: >-
-     &#169; 2025 Jeff Baldock &#8729; Made with [Quarto](https://quarto.org)
+     &#169; 2026 Jeff Baldock &#8729; Made with [Quarto](https://quarto.org)
+    right: "Updated on {{< var updated >}}"
 
 
 format:

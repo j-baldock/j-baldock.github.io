@@ -2,11 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://j-baldock.github.io/dataprod/dataproducts.html</loc>
-    <lastmod>2026-06-17T01:33:44.533Z</lastmod>
+    <lastmod>2026-06-17T18:36:50.210Z</lastmod>
   </url>
   <url>
     <loc>https://j-baldock.github.io/cv/cv.html</loc>
     <lastmod>2026-06-17T01:23:29.097Z</lastmod>
+  </url>
+  <url>
+    <loc>https://j-baldock.github.io/news/news.html</loc>
+    <lastmod>2026-06-17T18:35:58.147Z</lastmod>
   </url>
   <url>
     <loc>https://j-baldock.github.io/presentations/presentations.html</loc>
@@ -14,7 +18,7 @@
   </url>
   <url>
     <loc>https://j-baldock.github.io/about/about.html</loc>
-    <lastmod>2026-06-17T01:33:40.054Z</lastmod>
+    <lastmod>2026-06-17T18:35:51.288Z</lastmod>
   </url>
   <url>
     <loc>https://j-baldock.github.io/research/research.html</loc>
@@ -26,7 +30,11 @@
   </url>
   <url>
     <loc>https://j-baldock.github.io/index.html</loc>
-    <lastmod>2026-06-17T01:31:33.100Z</lastmod>
+    <lastmod>2026-06-17T18:32:40.798Z</lastmod>
+  </url>
+  <url>
+    <loc>https://j-baldock.github.io/news/posts/2026-06-17-welcome/index.html</loc>
+    <lastmod>2026-06-17T18:23:18.083Z</lastmod>
   </url>
   <url>
     <loc>https://j-baldock.github.io/teaching/teaching.html</loc>

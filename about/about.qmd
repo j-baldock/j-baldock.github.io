@@ -1,5 +1,5 @@
 ---
-title: "Hey there! Thanks for stopping by."
+title: "About me"
 title-block-banner: true
 include-in-header:
   text: |

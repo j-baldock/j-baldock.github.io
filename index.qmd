@@ -25,6 +25,15 @@ about:
       text: GitHub
       href: https://github.com/j-baldock  
       target: _blank
+
+listing:
+  - id: recent-news
+    contents: news/posts
+    sort: "date desc"
+    max-items: 3
+    type: grid
+    fields: [date, title, description]
+    date-format: "MMMM D, YYYY"
   
 page-layout: full
 
@@ -39,3 +48,10 @@ I am an aquatic ecologist with broad interests in population and landscape ecolo
 
 [Learn more about me →](/about/about.html)
 :::
+
+## Recent news
+
+::: {#recent-news}
+:::
+
+[View all news →](/news/news.html)

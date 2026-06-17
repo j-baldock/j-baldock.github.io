@@ -1,0 +1,16 @@
+---
+title: "Site launch!"
+date: 2026-06-17
+description: "Launching my website to share updates on research, fieldwork, publications, and upcoming events."
+categories: [general]
+image: "website.png"
+image-alt: "Screenshot of the landing page for Jeff Baldock's personal reserach website"
+---
+
+Welcome to my website! I'll be using this space to share more information on my research background and interests and to share timely updates including:
+
+- New publications and preprints
+- Conference presentations and upcoming talks
+- Field season updates and milestones
+- Funding announcements and new collaborations
+- Student and lab news

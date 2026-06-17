@@ -1,0 +1,18 @@
+---
+title: "What's new & updated"
+pagetitle: "News | Jeff Baldock"
+include-in-header:
+  text: |
+    <meta name="description" content="Recent updates regarding new publications and preprints, conference presentations and upcoming talks, field season updates and milestones, funding announcements and new collaborations, students and lab members" />
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  sort-ui: false
+  filter-ui: false
+  categories: true
+  fields: [image, date, title, description, categories]
+  date-format: "MMMM D, YYYY"
+page-layout: full
+title-block-banner: true
+---

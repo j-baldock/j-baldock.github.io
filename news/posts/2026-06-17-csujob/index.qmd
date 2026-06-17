@@ -1,0 +1,12 @@
+---
+title: "New job at CSU"
+date: 2026-06-17
+description: "I've accepted an Assistant Professor job at Colorado State Univeristy! Starting January 2027."
+categories: [general]
+image: "csulogo.jpg"
+image-alt: "Colorado State University logo"
+---
+
+I'm excited to announce that I recently accepted the position of Assistant Professor of Stream Fish Ecology in the Department of Fish, Wildlife, and Conservation Biology at Colorado State University in Fort Collins, CO. My (future) students and I will continue working to understand the linkages between climate, habitat, life history, and population dynamics of fishes across stream and river networks. Please reach out if you’d like to discuss ongoing projects or other collaborative opportunities. While I have yet to decide the full scope of my research at CSU, I am excited to pursue research in Colorado and across the western US, and engage with a wide variety of partners and stakeholders to conduct relevant and impactful science for fisheries conservation and management. 
+
+If you are a prospective graduate student, please know that I do not currently have any funded positions. However, please do not hesitate to reach out if you'd like to discuss project ideas or fit within the lab.  

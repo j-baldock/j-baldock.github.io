@@ -39,7 +39,14 @@
     "href": "news/news.html",
     "title": "What’s new & updated",
     "section": "",
-    "text": "Site launch!\n\n\n\ngeneral\n\n\n\nLaunching my website to share updates on research, fieldwork, publications, and upcoming events.\n\n\n\n\n\nJune 17, 2026\n\n\n\n\n\nNo matching items"
+    "text": "New paper\n\n\n\npapers\n\n\n\nOur paper describing the contribution of tributary streams to mainstem river fish populations is out in Ecological Applications\n\n\n\n\n\nJune 17, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nNew job at CSU\n\n\n\ngeneral\n\n\n\nI’ve accepted an Assistant Professor job at Colorado State Univeristy! Starting January 2027.\n\n\n\n\n\nJune 17, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nSite launch!\n\n\n\ngeneral\n\n\n\nLaunching my website to share updates on research, fieldwork, publications, and upcoming events.\n\n\n\n\n\nJune 16, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "news/posts/2026-06-17-gsipaper/index.html",
+    "href": "news/posts/2026-06-17-gsipaper/index.html",
+    "title": "New paper",
+    "section": "",
+    "text": "Will Rosenthal, Robert Al-Chokhachy, Matt Campbell, Katie Wager, Annika Walters, and I recently published a paper entitled Riverscape heterogeneity shapes population diversity for a migratory fish in Ecological Applications. The paper is available open access here: https://doi.org/10.1002/eap.70247.\nWe used genetic stock identification (GSI) to quantify the contribution of individual tributary streams to the mainstem Snake River population of Yellowstone cutthroat trout. Here are some key findings:\n\n94% of adult trout in the mainstem Snake River originated from tributary streams.\nThe composition of the mainstem population varied spatially from upstream to downstream. For example, Upper Bar BC, Blacktail Springs, and Cottonwood Creek dominated contributions to mainstem sections within Grand Teton National Park; Fish Creek and Lower Bar BC dominated in the sections near the town of Jackson, WY; and Willow, Cabin, and Bailey Creeks dominated in downstream sections.\nCloser and larger tributaries with greater groundwater availability increased contributions to the mainstem, while natural and anthropogenic barriers to fish passage reduced contributions.\n\nOur results show that diverse assemblages of tributary streams are critical for sustaining trout populations in the Snake River. While spring-fed streams contributed disproportionately relative to their size, the lower river depended on snowmelt-dominated streams with very different habitat characteristics. We also demonstrate how GSI can be used for conservation and management applications. For example, GSI could be used to expand the coverage of mark-recapture population estimates by detecting and partitioning contributions from unmonitored tributaries. In addition, GSI could be used to detect the reemergence of migratory life histories following the removal of fish passage barriers.\nThis work was funded by the Jackson Hole One Fly Foundation; Wyoming Wildlife and Natural Resource Trust; Grand Teton Association Boyd Evison Fellowship; the Biodiversity Institute, Department of Zoology and Physiology, Wyoming Cooperative Fish and Wildlife Research Unit, and the Wy-ACT project at the University of Wyoming; and the UW-NPS AMK Research Station. We would also like to thank the many individuals who provided in-kind support, in particular the Wyoming Game and Fish Department."
   },
   {
     "objectID": "presentations/presentations.html",
@@ -179,14 +186,21 @@
     "href": "index.html#recent-news",
     "title": "Jeff Baldock, PhD",
     "section": "Recent news",
-    "text": "Recent news\n\n\n\n\n\n\n\nSite launch!\n\n\nLaunching my website to share updates on research, fieldwork, publications, and upcoming events.\n\n\n\nJune 17, 2026\n\n\n\n\n\n\nNo matching items\n\nView all news →"
+    "text": "Recent news\n\n\n\n\n\n\n\nNew paper\n\n\nOur paper describing the contribution of tributary streams to mainstem river fish populations is out in Ecological Applications\n\n\n\nJune 17, 2026\n\n\n\n\n\n\n\n\n\n\nNew job at CSU\n\n\nI’ve accepted an Assistant Professor job at Colorado State Univeristy! Starting January 2027.\n\n\n\nJune 17, 2026\n\n\n\n\n\n\n\n\n\n\nSite launch!\n\n\nLaunching my website to share updates on research, fieldwork, publications, and upcoming events.\n\n\n\nJune 16, 2026\n\n\n\n\n\n\nNo matching items\n\nView all news →"
   },
   {
-    "objectID": "news/posts/2026-06-17-welcome/index.html",
-    "href": "news/posts/2026-06-17-welcome/index.html",
+    "objectID": "news/posts/2026-06-16-welcome/index.html",
+    "href": "news/posts/2026-06-16-welcome/index.html",
     "title": "Site launch!",
     "section": "",
     "text": "Welcome to my website! I’ll be using this space to share more information on my research background and interests and to share timely updates including:\n\nNew publications and preprints\nConference presentations and upcoming talks\nField season updates and milestones\nFunding announcements and new collaborations\nStudent and lab news"
+  },
+  {
+    "objectID": "news/posts/2026-06-17-csujob/index.html",
+    "href": "news/posts/2026-06-17-csujob/index.html",
+    "title": "New job at CSU",
+    "section": "",
+    "text": "I’m excited to announce that I recently accepted the position of Assistant Professor of Stream Fish Ecology in the Department of Fish, Wildlife, and Conservation Biology at Colorado State University in Fort Collins, CO. My (future) students and I will continue working to understand the linkages between climate, habitat, life history, and population dynamics of fishes across stream and river networks. Please reach out if you’d like to discuss ongoing projects or other collaborative opportunities. While I have yet to decide the full scope of my research at CSU, I am excited to pursue research in Colorado and across the western US, and engage with a wide variety of partners and stakeholders to conduct relevant and impactful science for fisheries conservation and management.\nIf you are a prospective graduate student, please know that I do not currently have any funded positions. However, please do not hesitate to reach out if you’d like to discuss project ideas or fit within the lab."
   },
   {
     "objectID": "teaching/teaching.html",

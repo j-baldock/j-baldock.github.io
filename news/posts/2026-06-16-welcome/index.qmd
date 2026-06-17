@@ -1,6 +1,6 @@
 ---
 title: "Site launch!"
-date: 2026-06-17
+date: 2026-06-16
 description: "Launching my website to share updates on research, fieldwork, publications, and upcoming events."
 categories: [general]
 image: "website.png"

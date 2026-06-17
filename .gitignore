@@ -1,6 +1,6 @@
 
 /.quarto/
 .Rproj.user
-files/
+/files/
 **/*.quarto_ipynb
 .positai

@@ -20,6 +20,7 @@ author-meta: "Jeff Baldock"
 website:
   title: "Jeff Baldock"
   site-url: "https://j-baldock.github.io/"
+  description: "Aquatic ecologist and Postdoctoral Scholar at Oregon State University studying freshwater fish ecology, ecohydrology, and conservation biology in river networks."
   navbar:
     left: 
       # - text: "Home"
@@ -63,6 +64,9 @@ format:
   html:
     theme: flatly
     number-depth: 4
+    include-in-header:
+      text: |
+        <meta name="google-site-verification" content="whotWva80fB9Dk8rKrdiRegWbf50rm2O8xXAovdEHs8" />
       
 
 editor: source

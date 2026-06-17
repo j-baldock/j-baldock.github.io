@@ -1,6 +1,9 @@
 ---
 title: "Teaching & mentoring"
 title-block-banner: true
+include-in-header:
+  text: |
+    <meta name="description" content="Jeff Baldock's teaching philosophy, mentoring approach, and outreach activities in ecology and conservation biology." />
 format:
   html:
     embed-resources: true

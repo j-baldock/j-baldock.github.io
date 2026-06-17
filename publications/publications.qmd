@@ -1,6 +1,9 @@
 ---
 title: "Publications"
 title-block-banner: true
+include-in-header:
+  text: |
+    <meta name="description" content="Peer-reviewed publications by Jeff Baldock on freshwater fish ecology, streamflow, groundwater, salmonid population dynamics, and conservation in river systems." />
 page-layout: full
 ---
 

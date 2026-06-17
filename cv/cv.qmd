@@ -1,6 +1,9 @@
 ---
 title: "Curriculum vitae"
 title-block-banner: true
+include-in-header:
+  text: |
+    <meta name="description" content="Curriculum vitae for Jeff Baldock, aquatic ecologist and Postdoctoral Scholar at Oregon State University." />
 page-layout: full
 format: html
 published-title: CV last updated

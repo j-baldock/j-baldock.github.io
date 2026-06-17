@@ -40,7 +40,7 @@ Groundwater is a key component of riverine hydrology. Groundwater-fed stream and
 ::: g-col-8
 Climate change and hydrologic alteration by dams are reshaping river systems worldwide, threatening freshwater biodiversity, ecosystem function, and the sustainability of critical ecosystem services. Environmental flows – allocating water specifically to sustain ecosystems – offer an opportunity to integrate ecosystem needs into water management. However, flow recommendations may need to be updated as climate change shifts the environmental context under which recommendations were originally developed. 
 
-STREAM is a decision support platform that simulates how changing streamflow and temperature influence the productivity of Yellowstone cutthroat trout in the upper Snake River watershed, Wyoming. Built for fisheries and water managers and conservation professionals, STREAM integrates long-term environmental and biological data to support adaptive, climate-resilient management strategies. ***STREAM is currently in beta testing***. [Access STREAM here](https://wyseason.s3.arcc.uwyo.edu/stream/index.html). 
+STREAM is a decision support platform that simulates how changing streamflow and temperature influence the productivity of Yellowstone cutthroat trout in the upper Snake River watershed, Wyoming. Built for fisheries and water managers and conservation professionals, STREAM integrates long-term environmental and biological data to support adaptive, climate-resilient management strategies. ***STREAM is currently in beta testing***. [Access STREAM here](https://season.wyadapt.org/stream/). 
 :::
 :::::
 
@@ -80,6 +80,8 @@ Here is a list of Quarto websites supporting my research. Many of these projects
 
 
 ## Data releases
+
+- **Baldock JR**, Rosenthal WC, Al-Chokhachy R, Campbell MR, Wagner CE, and Walters A. 2026. Fish genetics data and population location information from the Upper Snake River basin, WY (2020-2022): U.S. Geological Survey data release. DOI: [10.5066/P134IPH5](https://www.sciencebase.gov/catalog/item/694170fdd4be0262a1f6600a) 
 
 - **Baldock JR**. 2025. Redd count monitoring data for Yellowstone cutthroat trout spawning in groundwater-fed tributaries to the Snake River, Wyoming [Data set]. Zenodo Digital Repository, DOI: [10.5281/zenodo.17594482](https://doi.org/10.5281/zenodo.17594482).
 

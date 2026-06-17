@@ -4,10 +4,6 @@ title-block-banner: true
 include-in-header:
   text: |
     <meta name="description" content="Open-source data products, interactive decision support tools, and project websites from Jeff Baldock's research on freshwater fish and river ecosystems." />
-format:
-  html:
-    embed-resources: true
-
 page-layout: full
 ---
 

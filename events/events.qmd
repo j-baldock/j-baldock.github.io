@@ -1,10 +1,6 @@
 ---
 title: "Events"
 title-block-banner: true
-format:
-  html:
-    embed-resources: true
-
 page-layout: full
 ---
 

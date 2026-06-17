@@ -4,10 +4,6 @@ title-block-banner: true
 include-in-header:
   text: |
     <meta name="description" content="Jeff Baldock's research on stream temperature, groundwater, fish movement, life-history diversity, and adaptive water management for cold-water fish in a changing climate." />
-format:
-  html:
-    embed-resources: true
-
 page-layout: full
 ---
 

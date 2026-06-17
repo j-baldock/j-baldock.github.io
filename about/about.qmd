@@ -4,10 +4,6 @@ title-block-banner: true
 include-in-header:
   text: |
     <meta name="description" content="Learn about Jeff Baldock's background as an aquatic ecologist — from field biology in Alaska and Ecuador to PhD research on Yellowstone cutthroat trout at the University of Wyoming." />
-format:
-  html:
-    embed-resources: true
-  
 page-layout: full
 ---
 

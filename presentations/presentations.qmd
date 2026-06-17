@@ -4,10 +4,6 @@ title-block-banner: true
 include-in-header:
   text: |
     <meta name="description" content="Conference talks and presentations by Jeff Baldock on aquatic ecology, freshwater fish population dynamics, and river ecosystem science." />
-format:
-  html:
-    embed-resources: true
-
 page-layout: full
 ---
 

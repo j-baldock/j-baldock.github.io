@@ -4,10 +4,6 @@ pagetitle: "Jeff Baldock, PhD"
 subtitle: "Postdoctoral Scholar, Oregon State University"
 image: files/images/profilepic.jpg
 
-format:
-  html:
-    embed-resources: true
-
 about:
   template: solana
   image-width: 20em

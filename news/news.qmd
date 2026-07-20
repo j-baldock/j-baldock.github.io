@@ -1,5 +1,5 @@
 ---
-title: "What's new & updated"
+title: "News & updates"
 pagetitle: "News | Jeff Baldock"
 include-in-header:
   text: |

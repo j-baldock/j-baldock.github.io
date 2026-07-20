@@ -1,0 +1,21 @@
+---
+title: "New paper on water mgmt. to support fisheries"
+date: 2026-07-20
+description: "Our paper describing the effects of changing climate and dam management of fisheries production is out in Journal of Applied Ecology"
+categories: [papers]
+image: "jld_bor.png"
+image-alt: "Jackson Lake Dam regulates streamflow in the upper Snake River, Wyoming."
+---
+
+Tim Cline, Willie Fetzer, Annika Walters, and I recently published a paper entitled **Strategic dam management can offset climate-driven declines in cold-water fish production** in *Journal of Applied Ecology*. The paper is available here: <https://doi.org/10.1111/1365-2664.70505>.
+ 
+We used a hierarchical Bayesian stock-recruitment model to understand how changing climate and dam management practices have shaped population dynamics of Yellowstone cutthroat trout over the last four decades. Here are some **key findings**:
+
+- Climate warming had opposing effects on fisheries productivity, with declines in warmer winters and springs but increases in warmer summers.
+- The strongest driver of productivity was an interaction between the timing of natural and managed peak spring flows, where matched peak flow events reduced productivity, while mismatched peaks extended the flood pulse and increased productivity. 
+- Key flow management periods, including summer irrigation flows and the timing of autumn ramp down, had important but smaller effects on productivity.
+- Future climate projections indicated that continued warming and reduced spring flood duration may threaten trout productivity. However, our results show how adaptive dam management that strategically integrates with natural flow variability could offset climate-driven declines.
+ 
+Our results identify actionable levers for adaptive water management in the upper Snake River: delaying managed peak releases relative to natural flood peaks to extend the spring flood pulse, and postponing autumn ramp down to maintain side-channel connectivity. While water rights obligations and drought may limit implementation, our findings provide key information for both long-term and rapid-response decision making. 
+
+*This work was funded by the Wy-ACT project at the University of Wyoming. We would also like to thank the Wyoming Game and Fish Department for providing data, and the many individuals who provided helpful comments and discussion throughout the course of this study.* 

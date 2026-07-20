@@ -2,6 +2,7 @@
   {
     "listing": "/news/news.html",
     "items": [
+      "/news/posts/2026-07-20-wyactpaper/index.html",
       "/news/posts/2026-06-17-gsipaper/index.html",
       "/news/posts/2026-06-17-csujob/index.html",
       "/news/posts/2026-06-16-welcome/index.html"
@@ -10,6 +11,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/news/posts/2026-07-20-wyactpaper/index.html",
       "/news/posts/2026-06-17-gsipaper/index.html",
       "/news/posts/2026-06-17-csujob/index.html",
       "/news/posts/2026-06-16-welcome/index.html"

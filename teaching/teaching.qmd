@@ -4,6 +4,39 @@ title-block-banner: true
 include-in-header:
   text: |
     <meta name="description" content="Jeff Baldock's teaching philosophy, mentoring approach, and outreach activities in ecology and conservation biology." />
+    <style>
+      .photo-gallery-scroll {
+        display: flex;
+        overflow-x: auto;
+        gap: 10px;
+        padding: 14px 0 20px 0;
+        scroll-snap-type: x mandatory;
+        -webkit-overflow-scrolling: touch;
+        cursor: grab;
+      }
+      .photo-gallery-scroll:active {
+        cursor: grabbing;
+      }
+      /* Quarto wraps each image in a <p> tag */
+      .photo-gallery-scroll p {
+        flex-shrink: 0;
+        margin: 0;
+        scroll-snap-align: start;
+      }
+      /* Override Bootstrap img-fluid which sets height:auto and max-width:100% */
+      .photo-gallery-scroll p img {
+        height: 450px !important;
+        width: auto !important;
+        max-width: none !important;
+        object-fit: cover;
+        border-radius: 6px;
+        display: block;
+        transition: opacity 0.2s;
+      }
+      .photo-gallery-scroll p img:hover {
+        opacity: 0.85;
+      }
+    </style>
 page-layout: full
 lightbox: true
 ---
@@ -68,7 +101,15 @@ science communication opportunities can enhance their experience in
 field biology and highlight adjacent career paths.
 <br><br>
 
-::: {layout-ncol="4"}
+::: {.photo-gallery-scroll}
+![](../files/images/jack3.jpg){.lightbox group="my-gallery"}
+
+![](../files/images/jack2.jpg){.lightbox group="my-gallery"}
+
+![](../files/images/jack1.jpg){.lightbox group="my-gallery"}
+
+![](../files/images/jack4.jpg){.lightbox group="my-gallery"}
+
 ![](../files/images/chig1.jpg){.lightbox group="my-gallery"}
 
 ![](../files/images/chig2.jpg){.lightbox group="my-gallery"}
@@ -94,12 +135,4 @@ field biology and highlight adjacent career paths.
 ![](../files/images/crew8.jpg){.lightbox group="my-gallery"}
 
 ![](../files/images/crew9.jpg){.lightbox group="my-gallery"}
-
-![](../files/images/jack1.jpg){.lightbox group="my-gallery"}
-
-![](../files/images/jack2.jpg){.lightbox group="my-gallery"}
-
-![](../files/images/jack3.jpg){.lightbox group="my-gallery"}
-
-![](../files/images/jack4.jpg){.lightbox group="my-gallery"}
 :::

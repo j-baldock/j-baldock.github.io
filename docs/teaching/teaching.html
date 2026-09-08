@@ -75,6 +75,39 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <meta name="description" content="Jeff Baldock's teaching philosophy, mentoring approach, and outreach activities in ecology and conservation biology.">
+<style>
+  .photo-gallery-scroll {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+    padding: 14px 0 20px 0;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+    cursor: grab;
+  }
+  .photo-gallery-scroll:active {
+    cursor: grabbing;
+  }
+  /* Quarto wraps each image in a <p> tag */
+  .photo-gallery-scroll p {
+    flex-shrink: 0;
+    margin: 0;
+    scroll-snap-align: start;
+  }
+  /* Override Bootstrap img-fluid which sets height:auto and max-width:100% */
+  .photo-gallery-scroll p img {
+    height: 450px !important;
+    width: auto !important;
+    max-width: none !important;
+    object-fit: cover;
+    border-radius: 6px;
+    display: block;
+    transition: opacity 0.2s;
+  }
+  .photo-gallery-scroll p img:hover {
+    opacity: 0.85;
+  }
+</style>
 
 
 </head>
@@ -202,68 +235,24 @@ ul.task-list li input[type="checkbox"] {
 <section id="outreach-and-engagement" class="level2">
 <h2 class="anchored" data-anchor-id="outreach-and-engagement">Outreach and engagement</h2>
 <p>I enjoy organizing and contributing to a wide range of public outreach and science communication activities. These efforts not only broaden the impact of my research but also provide students and mentees with meaningful learning experiences that enrich their work and expand their career opportunities. For all outreach efforts, I work with my technicians and mentees to develop workshop materials, challenging them to translate what they learned in the field to impactful demonstrations and activities. I’ve found that providing mentees with outreach and science communication opportunities can enhance their experience in field biology and highlight adjacent career paths. <br><br></p>
-<div class="quarto-layout-panel" data-layout-ncol="4">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
-<p><a href="../files/images/chig1.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/chig1.jpg" class="img-fluid"></a></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
-<p><a href="../files/images/chig2.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/chig2.jpg" class="img-fluid"></a></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
-<p><a href="../files/images/chig4.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/chig4.jpg" class="img-fluid"></a></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
-<p><a href="../files/images/chig5.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/chig5.jpg" class="img-fluid"></a></p>
-</div>
-</div>
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
-<p><a href="../files/images/crew1.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/crew1.jpg" class="img-fluid"></a></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
-<p><a href="../files/images/crew2.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/crew2.jpg" class="img-fluid"></a></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
-<p><a href="../files/images/crew3.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/crew3.jpg" class="img-fluid"></a></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
-<p><a href="../files/images/crew4.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/crew4.jpg" class="img-fluid"></a></p>
-</div>
-</div>
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
-<p><a href="../files/images/crew5.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/crew5.jpg" class="img-fluid"></a></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
-<p><a href="../files/images/crew6.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/crew6.jpg" class="img-fluid"></a></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
-<p><a href="../files/images/crew7.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/crew7.jpg" class="img-fluid"></a></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
-<p><a href="../files/images/crew8.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/crew8.jpg" class="img-fluid"></a></p>
-</div>
-</div>
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
-<p><a href="../files/images/crew9.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/crew9.jpg" class="img-fluid"></a></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
-<p><a href="../files/images/jack1.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/jack1.jpg" class="img-fluid"></a></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
-<p><a href="../files/images/jack2.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/jack2.jpg" class="img-fluid"></a></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
+<div class="photo-gallery-scroll">
 <p><a href="../files/images/jack3.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/jack3.jpg" class="img-fluid"></a></p>
-</div>
-</div>
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
+<p><a href="../files/images/jack2.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/jack2.jpg" class="img-fluid"></a></p>
+<p><a href="../files/images/jack1.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/jack1.jpg" class="img-fluid"></a></p>
 <p><a href="../files/images/jack4.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/jack4.jpg" class="img-fluid"></a></p>
-</div>
-</div>
+<p><a href="../files/images/chig1.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/chig1.jpg" class="img-fluid"></a></p>
+<p><a href="../files/images/chig2.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/chig2.jpg" class="img-fluid"></a></p>
+<p><a href="../files/images/chig4.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/chig4.jpg" class="img-fluid"></a></p>
+<p><a href="../files/images/chig5.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/chig5.jpg" class="img-fluid"></a></p>
+<p><a href="../files/images/crew1.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/crew1.jpg" class="img-fluid"></a></p>
+<p><a href="../files/images/crew2.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/crew2.jpg" class="img-fluid"></a></p>
+<p><a href="../files/images/crew3.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/crew3.jpg" class="img-fluid"></a></p>
+<p><a href="../files/images/crew4.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/crew4.jpg" class="img-fluid"></a></p>
+<p><a href="../files/images/crew5.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/crew5.jpg" class="img-fluid"></a></p>
+<p><a href="../files/images/crew6.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/crew6.jpg" class="img-fluid"></a></p>
+<p><a href="../files/images/crew7.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/crew7.jpg" class="img-fluid"></a></p>
+<p><a href="../files/images/crew8.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/crew8.jpg" class="img-fluid"></a></p>
+<p><a href="../files/images/crew9.jpg" class="lightbox" data-gallery="my-gallery"><img src="../files/images/crew9.jpg" class="img-fluid"></a></p>
 </div>
 
 
@@ -680,7 +669,7 @@ ul.task-list li input[type="checkbox"] {
       &nbsp;
     </div>
     <div class="nav-footer-right">
-<p>Updated on July 20, 2026</p>
+<p>Updated on September 08, 2026</p>
 </div>
   </div>
 </footer>

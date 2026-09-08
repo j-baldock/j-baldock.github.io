@@ -1,8 +1,62 @@
 ---
 title: "Jeff Baldock, PhD"
-pagetitle: "Jeff Baldock, PhD"
+pagetitle: "Jeff Baldock, PhD | Aquatic Ecologist"
 subtitle: "Postdoctoral Scholar, Oregon State University"
+description: "Jeff Baldock is an aquatic ecologist and Postdoctoral Scholar at Oregon State University studying freshwater fish ecology, population dynamics, ecohydrology, and conservation biology in river networks."
 image: files/images/profilepic.jpg
+
+include-in-header:
+  text: |
+    <meta name="keywords" content="Jeff Baldock, aquatic ecologist, freshwater fish ecology, ecohydrology, conservation biology, Oregon State University, postdoctoral scholar, river networks, population dynamics, fisheries science, USGS, cutthroat trout, Colorado State University" />
+    <meta property="og:type" content="profile" />
+    <meta property="og:title" content="Jeff Baldock, PhD | Aquatic Ecologist" />
+    <meta property="og:description" content="Jeff Baldock is an aquatic ecologist and Postdoctoral Scholar at Oregon State University studying freshwater fish ecology, population dynamics, ecohydrology, and conservation biology in river networks." />
+    <meta property="og:url" content="https://j-baldock.github.io/" />
+    <meta property="profile:first_name" content="Jeff" />
+    <meta property="profile:last_name" content="Baldock" />
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Jeff Baldock",
+      "givenName": "Jeff",
+      "familyName": "Baldock",
+      "honorificSuffix": "PhD",
+      "jobTitle": "Postdoctoral Scholar",
+      "affiliation": {
+        "@type": "CollegeOrUniversity",
+        "name": "Oregon State University",
+        "url": "https://oregonstate.edu"
+      },
+      "alumniOf": [
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "University of Wyoming"
+        },
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "University of Washington"
+        }
+      ],
+      "description": "Jeff Baldock is an aquatic ecologist specializing in freshwater fish ecology, ecohydrology, population dynamics, and conservation biology in river networks.",
+      "url": "https://j-baldock.github.io/",
+      "sameAs": [
+        "https://orcid.org/0000-0002-2791-7535",
+        "https://scholar.google.com/citations?user=CRU3WVMAAAAJ&hl=en",
+        "https://www.researchgate.net/profile/Jeff-Baldock",
+        "https://github.com/j-baldock"
+      ],
+      "knowsAbout": [
+        "aquatic ecology",
+        "freshwater fish ecology",
+        "ecohydrology",
+        "conservation biology",
+        "population dynamics",
+        "river networks",
+        "fisheries science"
+      ]
+    }
+    </script>
 
 about:
   template: solana
